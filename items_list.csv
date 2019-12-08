@@ -1,2548 +1,2548 @@
 ,name,category,effect
 0,"
--ability-urge
-",battle-items,"when-used,-it-activates-the-ability-of-an-ally-pokémon."
+ Ability Urge
+",Battle items,"When used, it activates the Ability of an ally Pokémon."
 1,"
--abomasite
-",hold-items,enables-abomasnow-to-mega-evolve-during-battle.
+ Abomasite
+",Hold items,Enables Abomasnow to Mega Evolve during battle.
 2,"
--absolite
-",hold-items,enables-absol-to-mega-evolve-during-battle.
+ Absolite
+",Hold items,Enables Absol to Mega Evolve during battle.
 3,"
--absorb-bulb
-",hold-items,"a-consumable-bulb.-if-the-holder-is-hit-by-a-water-type-move,-its-sp.-atk-will-rise."
+ Absorb Bulb
+",Hold items,"A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise."
 4,"
--adamant-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-adamant-nature.
+ Adamant Mint
+",Battle items,Changes the Pokémon's stats to match the Adamant nature.
 5,"
--adamant-orb
-",hold-items,increases-the-power-of-dragon--and-steel-type-moves-when-held-by-dialga.
+ Adamant Orb
+",Hold items,Increases the power of Dragon- and Steel-type moves when held by Dialga.
 6,"
--adrenaline-orb
-",hold-items,"using-it-makes-wild-pokémon-more-likely-to-call-for-help.-if-held-by-a-pokémon,-it-boosts-speed-when-intimidated.-it-can-be-used-only-once."
+ Adrenaline Orb
+",Hold items,"Using it makes wild Pokémon more likely to call for help. If held by a Pokémon, it boosts Speed when intimidated. It can be used only once."
 7,"
--aerodactylite
-",hold-items,enables-aerodactyl-to-mega-evolve-during-battle.
+ Aerodactylite
+",Hold items,Enables Aerodactyl to Mega Evolve during battle.
 8,"
--aggronite
-",hold-items,enables-aggron-to-mega-evolve-during-battle.
+ Aggronite
+",Hold items,Enables Aggron to Mega Evolve during battle.
 9,"
--aguav-berry
-",berries,"restores-hp-if-it's-low,-but-may-cause-confusion."
+ Aguav Berry
+",Berries,"Restores HP if it's low, but may cause confusion."
 10,"
--air-balloon
-",hold-items,"when-held-by-a-pokémon,-the-pokémon-will-float-into-the-air.-when-the-holder-is-attacked,-this-item-will-burst."
+ Air Balloon
+",Hold items,"When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst."
 11,"
--alakazite
-",hold-items,enables-alakazam-to-mega-evolve-during-battle.
+ Alakazite
+",Hold items,Enables Alakazam to Mega Evolve during battle.
 12,"
--aloraichium-z
-",hold-items,"allows-alolan-raichu-to-upgrade-thunderbolt-to-a-z-move,-stoked-sparksurfer."
+ Aloraichium Z
+",Hold items,"Allows Alolan Raichu to upgrade Thunderbolt to a Z-Move, Stoked Sparksurfer."
 13,"
--altarianite
-",hold-items,enables-altaria-to-mega-evolve-during-battle.
+ Altarianite
+",Hold items,Enables Altaria to Mega Evolve during battle.
 14,"
--ampharosite
-",hold-items,enables-ampharos-to-mega-evolve-during-battle.
+ Ampharosite
+",Hold items,Enables Ampharos to Mega Evolve during battle.
 15,"
--amulet-coin
-",hold-items,doubles-prize-money-if-held.
+ Amulet Coin
+",Hold items,Doubles prize money if held.
 16,"
--antidote
-",medicine,a-spray-type-medicine.-it-lifts-the-effect-of-poison-from-one-pokémon.
+ Antidote
+",Medicine,A spray-type medicine. It lifts the effect of poison from one Pokémon.
 17,"
--apicot-berry
-",berries,raises-special-defense-when-hp-is-low.
+ Apicot Berry
+",Berries,Raises Special Defense when HP is low.
 18,"
--armor-fossil
-",general-items,a-fossil-from-a-prehistoric-pokémon-that-lived-on-the-land.-it-appears-to-be-part-of-a-collar.
+ Armor Fossil
+",General items,A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.
 19,"
--aspear-berry
-",berries,"if-held-by-a-pokémon,-it-defrosts-it."
+ Aspear Berry
+",Berries,"If held by a Pokémon, it defrosts it."
 20,"
--assault-vest
-",hold-items,raises-special-defense-but-prevents-the-use-of-status-moves.
+ Assault Vest
+",Hold items,Raises Special Defense but prevents the use of status moves.
 21,"
--audinite
-",hold-items,enables-audino-to-mega-evolve-during-battle.
+ Audinite
+",Hold items,Enables Audino to Mega Evolve during battle.
 22,"
--awakening
-",medicine,a-spray-type-medicine.-it-awakens-a-pokémon-from-the-clutches-of-sleep.
+ Awakening
+",Medicine,A spray-type medicine. It awakens a Pokémon from the clutches of sleep.
 23,"
--babiri-berry
-",berries,weakens-a-supereffective-steel-type-attack-against-the-holding-pokémon.
+ Babiri Berry
+",Berries,Weakens a supereffective Steel-type attack against the holding Pokémon.
 24,"
--balm-mushroom
-",general-items,a-rare-mushroom-which-gives-off-a-nice-fragrance.-a-maniac-will-buy-it-for-a-high-price.
+ Balm Mushroom
+",General items,A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.
 25,"
--banettite
-",hold-items,enables-banette-to-mega-evolve-during-battle.
+ Banettite
+",Hold items,Enables Banette to Mega Evolve during battle.
 26,"
--beach-glass
-",general-items,a-piece-of-colored-glass.-waves-have-rounded-its-edges.-it's-slightly-rough-to-the-touch.
+ Beach Glass
+",General items,A piece of colored glass. Waves have rounded its edges. It's slightly rough to the touch.
 27,"
--beast-ball
-",pokeballs,a-special-poké-ball-designed-to-catch-ultra-beasts.-it-has-a-low-success-rate-for-catching-others.
+ Beast Ball
+",Pokeballs,A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.
 28,"
--beedrillite
-",hold-items,enables-beedrill-to-mega-evolve-during-battle.
+ Beedrillite
+",Hold items,Enables Beedrill to Mega Evolve during battle.
 29,"
--belue-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Belue Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 30,"
--berry-juice
-",medicine,a-100%-pure-juice-made-of-berries.-it-restores-the-hp-of-one-pokémon-by-just-20-points.
+ Berry Juice
+",Medicine,A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.
 31,"
--berry-sweet
-",hold-items,evolves-milcery-into-blueberry-flavor-alcremie.
+ Berry Sweet
+",Hold items,Evolves Milcery into Blueberry Flavor Alcremie.
 32,"
--big-malasada
-",medicine,heals-all-major-status-conditions.
+ Big Malasada
+",Medicine,Heals all major status conditions.
 33,"
--big-mushroom
-",general-items,a-large-and-rare-mushroom.-it-is-sought-after-by-collectors.
+ Big Mushroom
+",General items,A large and rare mushroom. It is sought after by collectors.
 34,"
--big-nugget
-",general-items,a-big-nugget-of-pure-gold-that-gives-off-a-lustrous-gleam.-a-maniac-will-buy-it-for-a-high-price.
+ Big Nugget
+",General items,A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.
 35,"
--big-pearl
-",general-items,a-quite-large-pearl-that-sparkles-in-a-pretty-silver-color.-it-can-be-sold-at-a-high-price-to-shops.
+ Big Pearl
+",General items,A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
 36,"
--big-root
-",hold-items,recovers-more-hp-from-hp-stealing-moves.
+ Big Root
+",Hold items,Recovers more HP from HP-stealing moves.
 37,"
--binding-band
-",hold-items,a-band-that-increases-the-power-of-binding-moves-when-held.
+ Binding Band
+",Hold items,A band that increases the power of binding moves when held.
 38,"
--black-apricorn
-",general-items,a-black-apricorn-it-has-an-indescribable-scent.
+ Black Apricorn
+",General items,A black Apricorn It has an indescribable scent.
 39,"
--black-belt
-",hold-items,increases-the-power-of-fighting-type-moves.
+ Black Belt
+",Hold items,Increases the power of Fighting-type moves.
 40,"
--black-flute
-",general-items,a-toy-flute-made-from-black-glass.-a-maniac-will-buy-it-for-a-high-price.
+ Black Flute
+",General items,A toy flute made from black glass. A maniac will buy it for a high price.
 41,"
--black-glasses
-",hold-items,increases-the-power-of-dark-type-moves.
+ Black Glasses
+",Hold items,Increases the power of Dark-type moves.
 42,"
--black-sludge
-",hold-items,a-held-item-that-gradually-restores-the-hp-of-poison-type-pokémon.-it-inflicts-damage-on-all-other-types.
+ Black Sludge
+",Hold items,A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.
 43,"
--blastoisinite
-",hold-items,enables-blastoise-to-mega-evolve-during-battle.
+ Blastoisinite
+",Hold items,Enables Blastoise to Mega Evolve during battle.
 44,"
--blazikenite
-",hold-items,enables-blaziken-to-mega-evolve-during-battle.
+ Blazikenite
+",Hold items,Enables Blaziken to Mega Evolve during battle.
 45,"
--blue-apricorn
-",general-items,a-blue-apricorn.-it-smells-a-bit-like-grass.
+ Blue Apricorn
+",General items,A blue Apricorn. It smells a bit like grass.
 46,"
--blue-flute
-",general-items,a-toy-flute-made-from-blue-glass.-a-maniac-will-buy-it-for-a-high-price.
+ Blue Flute
+",General items,A toy flute made from blue glass. A maniac will buy it for a high price.
 47,"
--blue-scarf
-",general-items,raises-holder's-beauty-aspect-in-a-contest.
+ Blue Scarf
+",General items,Raises holder's Beauty aspect in a Contest.
 48,"
--blue-shard
-",general-items,a-small-blue-shard.-it-appears-to-be-from-some-sort-of-implement-made-long-ago.
+ Blue Shard
+",General items,A small blue shard. It appears to be from some sort of implement made long ago.
 49,"
--bluk-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Bluk Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 50,"
--blunder-policy
-",hold-items,raises-speed-sharply-if-its-attack-misses.
+ Blunder Policy
+",Hold items,Raises Speed sharply if its attack misses.
 51,"
--bold-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-bold-nature.
+ Bold Mint
+",Battle items,Changes the Pokémon's stats to match the Bold nature.
 52,"
--bottle-cap
-",general-items,maximizes-one-iv-stat-in-hyper-training.
+ Bottle Cap
+",General items,Maximizes one IV stat in Hyper Training.
 53,"
--brave-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-brave-nature.
+ Brave Mint
+",Battle items,Changes the Pokémon's stats to match the Brave nature.
 54,"
--bright-powder
-",hold-items,lowers-the-opponent's-accuracy.
+ Bright Powder
+",Hold items,Lowers the opponent's accuracy.
 55,"
--bug-gem
-",hold-items,increases-the-power-of-a-bug-type-move-only-once.
+ Bug Gem
+",Hold items,Increases the power of a Bug-type move only once.
 56,"
--bug-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-bug-type.
+ Bug Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Bug type.
 57,"
--buginium-z
-",hold-items,"allows-the-use-of-savage-spin-out,-the-bug-type-z-move."
+ Buginium Z
+",Hold items,"Allows the use of Savage Spin-Out, the Bug type Z-Move."
 58,"
--burn-drive
-",hold-items,changes-techno-blast-to-a-fire-type-move-when-held-by-genesect.
+ Burn Drive
+",Hold items,Changes Techno Blast to a Fire-type move when held by Genesect.
 59,"
--burn-heal
-",medicine,a-spray-type-medicine.-it-heals-a-single-pokémon-that-is-suffering-from-a-burn.
+ Burn Heal
+",Medicine,A spray-type medicine. It heals a single Pokémon that is suffering from a burn.
 60,"
--calcium
-",medicine,increases-special-attack-evs-by-10.
+ Calcium
+",Medicine,Increases Special Attack EVs by 10.
 61,"
--calm-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-calm-nature.
+ Calm Mint
+",Battle items,Changes the Pokémon's stats to match the Calm nature.
 62,"
--cameruptite
-",hold-items,enables-camerupt-to-mega-evolve-during-battle.
+ Cameruptite
+",Hold items,Enables Camerupt to Mega Evolve during battle.
 63,"
--carbos
-",medicine,increases-speed-evs-by-10.
+ Carbos
+",Medicine,Increases Speed EVs by 10.
 64,"
--careful-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-careful-nature.
+ Careful Mint
+",Battle items,Changes the Pokémon's stats to match the Careful nature.
 65,"
--casteliacone
-",medicine,heals-all-major-status-conditions.
+ Casteliacone
+",Medicine,Heals all major status conditions.
 66,"
--cell-battery
-",hold-items,"a-consumable-battery.-if-the-holder-is-hit-by-an-electric-type-move,-its-attack-will-rise."
+ Cell Battery
+",Hold items,"A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise."
 67,"
--chalky-stone
-",general-items,a-small-whitish-stone-picked-up-at-the-edge-of-the-road.
+ Chalky Stone
+",General items,A small whitish stone picked up at the edge of the road.
 68,"
--charcoal
-",hold-items,increases-the-power-of-fire-type-moves.
+ Charcoal
+",Hold items,Increases the power of Fire-type moves.
 69,"
--charizardite-x
-",hold-items,enables-charizard-to-mega-evolve-during-battle.
+ Charizardite X
+",Hold items,Enables Charizard to Mega Evolve during battle.
 70,"
--charizardite-y
-",hold-items,enables-charizard-to-mega-evolve-during-battle.
+ Charizardite Y
+",Hold items,Enables Charizard to Mega Evolve during battle.
 71,"
--charti-berry
-",berries,weakens-a-supereffective-rock-type-attack-against-the-holding-pokémon.
+ Charti Berry
+",Berries,Weakens a supereffective Rock-type attack against the holding Pokémon.
 72,"
--cheri-berry
-",berries,"if-held-by-a-pokémon,-it-recovers-from-paralysis."
+ Cheri Berry
+",Berries,"If held by a Pokémon, it recovers from paralysis."
 73,"
--cherish-ball
-",pokeballs,a-quite-rare-poké-ball-that-has-been-specially-crafted-to-commemorate-an-occasion-of-some-sort.
+ Cherish Ball
+",Pokeballs,A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.
 74,"
--chesto-berry
-",berries,"if-held-by-a-pokémon,-it-recovers-from-sleep."
+ Chesto Berry
+",Berries,"If held by a Pokémon, it recovers from sleep."
 75,"
--chilan-berry
-",berries,weakens-a-normal-type-attack-against-the-pokémon-holding-this-berry.
+ Chilan Berry
+",Berries,Weakens a Normal-type attack against the Pokémon holding this berry.
 76,"
--chill-drive
-",hold-items,changes-techno-blast-to-an-ice-type-move-when-held-by-genesect.
+ Chill Drive
+",Hold items,Changes Techno Blast to an Ice-type move when held by Genesect.
 77,"
--chipped-pot
-",hold-items,evolves-sinistea-into-polteageist.
+ Chipped Pot
+",Hold items,Evolves Sinistea into Polteageist.
 78,"
--choice-band
-",hold-items,"raises-attack,-but-only-one-move-can-be-used."
+ Choice Band
+",Hold items,"Raises Attack, but only one move can be used."
 79,"
--choice-scarf
-",hold-items,"raises-speed,-but-only-one-move-can-be-used."
+ Choice Scarf
+",Hold items,"Raises Speed, but only one move can be used."
 80,"
--choice-specs
-",hold-items,"raises-special-attack,-but-only-one-move-can-be-used."
+ Choice Specs
+",Hold items,"Raises Special Attack, but only one move can be used."
 81,"
--chople-berry
-",berries,weakens-a-supereffective-fighting-type-attack-against-the-holding-pokémon.
+ Chople Berry
+",Berries,Weakens a supereffective Fighting-type attack against the holding Pokémon.
 82,"
--claw-fossil
-",general-items,a-fossil-of-an-ancient-pokémon-that-lived-in-the-sea.-it-appears-to-be-part-of-a-claw.
+ Claw Fossil
+",General items,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw.
 83,"
--cleanse-tag
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-helps-keep-wild-pokémon-away-if-the-holder-is-the-first-one-in-the-party.
+ Cleanse Tag
+",Hold items,An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
 84,"
--clever-wing
-",medicine,increases-special-defense-evs-by-1.
+ Clever Wing
+",Medicine,Increases Special Defense EVs by 1.
 85,"
--clover-sweet
-",hold-items,evolves-milcery-into-clover-flavor-alcremie.
+ Clover Sweet
+",Hold items,Evolves Milcery into Clover Flavor Alcremie.
 86,"
--coba-berry
-",berries,weakens-a-supereffective-flying-type-attack-against-the-holding-pokémon.
+ Coba Berry
+",Berries,Weakens a supereffective Flying-type attack against the holding Pokémon.
 87,"
--colbur-berry
-",berries,weakens-a-supereffective-dark-type-attack-against-the-holding-pokémon.
+ Colbur Berry
+",Berries,Weakens a supereffective Dark-type attack against the holding Pokémon.
 88,"
--colress-machine
-",hold-items,a-special-device-that-wrings-out-the-potential-of-pokémon.-it-is-an-imperfect-prototype.
+ Colress Machine
+",Hold items,A special device that wrings out the potential of Pokémon. It is an imperfect prototype.
 89,"
--comet-shard
-",general-items,a-shard-which-fell-to-the-ground-when-a-comet-approached.-a-maniac-will-buy-it-for-a-high-price.
+ Comet Shard
+",General items,A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.
 90,"
--cornn-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Cornn Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 91,"
--courage-candy
-",medicine,increases-a-pokémon's-special-defense-stat-by-1.
+ Courage Candy
+",Medicine,Increases a Pokémon's Special Defense stat by 1.
 92,"
--courage-candy-l
-",medicine,increases-a-pokémon's-special-defense-stat.
+ Courage Candy L
+",Medicine,Increases a Pokémon's Special Defense stat.
 93,"
--courage-candy-xl
-",medicine,increases-a-pokémon's-special-defense-stat.
+ Courage Candy XL
+",Medicine,Increases a Pokémon's Special Defense stat.
 94,"
--cover-fossil
-",general-items,a-fossil-of-an-ancient-pokémon-that-lived-in-the-sea-in-ancient-times.-it-appears-to-be-part-of-its-back.
+ Cover Fossil
+",General items,A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.
 95,"
--cracked-pot
-",hold-items,evolves-sinistea-into-polteageist.
+ Cracked Pot
+",Hold items,Evolves Sinistea into Polteageist.
 96,"
--custap-berry
-",berries,holder-can-move-first-when-hp-is-low.
+ Custap Berry
+",Berries,Holder can move first when HP is low.
 97,"
--damp-mulch
-",general-items,a-fertilizer-to-be-spread-on-soft-soil-in-regions-where-berries-are-grown.-a-maniac-will-buy-it-for-a-high-price.
+ Damp Mulch
+",General items,A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
 98,"
--damp-rock
-",hold-items,a-pokémon-held-item-that-extends-the-duration-of-the-move-rain-dance-used-by-the-holder.
+ Damp Rock
+",Hold items,A Pokémon held item that extends the duration of the move Rain Dance used by the holder.
 99,"
--dark-gem
-",hold-items,increases-the-power-of-a-dark-type-move-only-once.
+ Dark Gem
+",Hold items,Increases the power of a Dark-type move only once.
 100,"
--dark-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-dark-type.
+ Dark Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Dark type.
 101,"
--darkinium-z
-",hold-items,"allows-the-use-of-black-hole-eclipse,-the-dark-type-z-move."
+ Darkinium Z
+",Hold items,"Allows the use of Black Hole Eclipse, the Dark type Z-Move."
 102,"
--dawn-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Dawn Stone
+",General items,Evolves certain species of Pokémon.
 103,"
--decidium-z
-",hold-items,"allows-decidueye-to-upgrade-spirit-shackle-to-a-z-move,-sinister-arrow-raid."
+ Decidium Z
+",Hold items,"Allows Decidueye to upgrade Spirit Shackle to a Z-Move, Sinister Arrow Raid."
 104,"
--deep-sea-scale
-",hold-items,increases-special-defense-when-held-by-clamperl.-evolves-clamperl-when-traded-holding-the-item.
+ Deep Sea Scale
+",Hold items,Increases Special Defense when held by Clamperl. Evolves Clamperl when traded holding the item.
 105,"
--deep-sea-tooth
-",hold-items,increases-special-attack-when-held-by-clamperl.-evolves-clamperl-when-traded-holding-the-item.
+ Deep Sea Tooth
+",Hold items,Increases Special Attack when held by Clamperl. Evolves Clamperl when traded holding the item.
 106,"
--destiny-knot
-",hold-items,"a-long,-thin,-bright-red-string-to-be-held-by-a-pokémon.-if-the-holder-becomes-infatuated,-the-foe-does-too."
+ Destiny Knot
+",Hold items,"A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too."
 107,"
--diancite
-",hold-items,enables-diancie-to-mega-evolve-during-battle.
+ Diancite
+",Hold items,Enables Diancie to Mega Evolve during battle.
 108,"
--dire-hit
-",battle-items,raises-critical-hit-ratio-of-a-pokémon-in-battle.
+ Dire Hit
+",Battle items,Raises critical-hit ratio of a Pokémon in battle.
 109,"
--dire-hit-2
-",battle-items,raises-a-pokémon's-critical-hit-ratio-in-battle.
+ Dire Hit 2
+",Battle items,Raises a Pokémon's critical-hit ratio in battle.
 110,"
--dire-hit-3
-",battle-items,greatly-raises-a-pokémon's-critical-hit-ratio-in-battle.
+ Dire Hit 3
+",Battle items,Greatly raises a Pokémon's critical-hit ratio in battle.
 111,"
--discount-coupon
-",general-items,this-special-coupon-allows-you-to-buy-items-at-a-discount-when-you-are-shopping-at-a-boutique.
+ Discount Coupon
+",General items,This special coupon allows you to buy items at a discount when you are shopping at a boutique.
 112,"
--dive-ball
-",pokeballs,a-somewhat-different-poké-ball-that-works-especially-well-on-pokémon-that-live-underwater.
+ Dive Ball
+",Pokeballs,A somewhat different Poké Ball that works especially well on Pokémon that live underwater.
 113,"
--dna-splicers
-",general-items,a-splicer-that-fuses-kyurem-and-a-certain-pokémon.-they-are-said-to-have-been-one-in-the-beginning.
+ DNA Splicers
+",General items,A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.
 114,"
--dome-fossil
-",general-items,a-fossil-of-an-ancient-pokémon-that-lived-in-the-sea.-it-appears-to-be-part-of-a-shell.
+ Dome Fossil
+",General items,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell.
 115,"
--douse-drive
-",hold-items,changes-techno-blast-to-a-water-type-move-when-held-by-genesect.
+ Douse Drive
+",Hold items,Changes Techno Blast to a Water-type move when held by Genesect.
 116,"
--draco-plate
-",hold-items,increases-power-of-dragon-type-moves.-changes-arceus'-type-to-dragon.
+ Draco Plate
+",Hold items,Increases power of Dragon-type moves. Changes Arceus' type to Dragon.
 117,"
--dragon-fang
-",hold-items,increases-the-power-of-dragon-type-moves.
+ Dragon Fang
+",Hold items,Increases the power of Dragon-type moves.
 118,"
--dragon-gem
-",hold-items,increases-the-power-of-a-dragon-type-move-only-once.
+ Dragon Gem
+",Hold items,Increases the power of a Dragon-type move only once.
 119,"
--dragon-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-dragon-type.
+ Dragon Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Dragon type.
 120,"
--dragon-scale
-",general-items,evolves-seadra-when-traded-holding-the-item.
+ Dragon Scale
+",General items,Evolves Seadra when traded holding the item.
 121,"
--dragonium-z
-",hold-items,"allows-the-use-of-devastating-drake,-the-dragon-type-z-move."
+ Dragonium Z
+",Hold items,"Allows the use of Devastating Drake, the Dragon type Z-Move."
 122,"
--dread-plate
-",hold-items,increases-power-of-dark-type-moves.-changes-arceus'-type-to-dark.
+ Dread Plate
+",Hold items,Increases power of Dark-type moves. Changes Arceus' type to Dark.
 123,"
--dream-ball
-",pokeballs,a-special-poké-ball-that-appears-out-of-nowhere-in-a-bag-at-the-entree-forest.-it-can-catch-any-pokémon.
+ Dream Ball
+",Pokeballs,A special Poké Ball that appears out of nowhere in a bag at the Entree Forest. It can catch any Pokémon.
 124,"
--dropped-item
-",hold-items,the-xtransceiver-found-at-the-nimbasa-city-amusement-park.-it-seems-it-belongs-to-a-boy.
+ Dropped Item
+",Hold items,The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy.
 125,"
--dubious-disc
-",general-items,evolves-porygon2-when-traded-holding-the-item.
+ Dubious Disc
+",General items,Evolves Porygon2 when traded holding the item.
 126,"
--durin-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Durin Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 127,"
--dusk-ball
-",pokeballs,a-somewhat-different-poké-ball-that-makes-it-easier-to-catch-wild-pokémon-at-night-or-in-dark-places-like-caves.
+ Dusk Ball
+",Pokeballs,A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.
 128,"
--dusk-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Dusk Stone
+",General items,Evolves certain species of Pokémon.
 129,"
--dynamax-candy
-",medicine,raises-dynamax-level.
+ Dynamax Candy
+",Medicine,Raises Dynamax Level.
 130,"
--earth-plate
-",hold-items,increases-power-of-ground-type-moves.-changes-arceus'-type-to-ground.
+ Earth Plate
+",Hold items,Increases power of Ground-type moves. Changes Arceus' type to Ground.
 131,"
--eevium-z
-",hold-items,"allows-eevee-to-upgrade-last-resort-to-a-z-move,-extreme-evoboost."
+ Eevium Z
+",Hold items,"Allows Eevee to upgrade Last Resort to a Z-Move, Extreme Evoboost."
 132,"
--eject-button
-",hold-items,"if-the-holder-is-hit-by-an-attack,-it-will-switch-with-another-pokémon-in-your-party."
+ Eject Button
+",Hold items,"If the holder is hit by an attack, it will switch with another Pokémon in your party."
 133,"
--eject-pack
-",hold-items,the-pokémon-switches-out-if-its-stats-are-lowered.
+ Eject Pack
+",Hold items,The Pokémon switches out if its stats are lowered.
 134,"
--electirizer
-",general-items,evolves-electabuzz-when-traded-holding-the-item.
+ Electirizer
+",General items,Evolves Electabuzz when traded holding the item.
 135,"
--electric-gem
-",hold-items,increases-the-power-of-an-electric-type-move-only-once.
+ Electric Gem
+",Hold items,Increases the power of an Electric-type move only once.
 136,"
--electric-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-electric-type.
+ Electric Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Electric type.
 137,"
--electric-seed
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-boosts-defense-on-electric-terrain.-it-can-only-be-used-once.
+ Electric Seed
+",Hold items,An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.
 138,"
--electrium-z
-",hold-items,"allows-the-use-of-gigavolt-havoc,-the-electric-type-z-move."
+ Electrium Z
+",Hold items,"Allows the use of Gigavolt Havoc, the Electric type Z-Move."
 139,"
--elevator-key
-",hold-items,a-card-key-that-activates-the-elevator-in-lysandre-labs.-it-is-emblazoned-with-team-flare's-logo.
+ Elevator Key
+",Hold items,A card key that activates the elevator in Lysandre Labs. It is emblazoned with Team Flare's logo.
 140,"
--elixir
-",medicine,it-restores-the-pp-of-all-the-moves-learned-by-the-targeted-pokémon-by-10-points-each.
+ Elixir
+",Medicine,It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.
 141,"
--energy-powder
-",medicine,restores-60-hp-but-lowers-friendship.
+ Energy Powder
+",Medicine,Restores 60 HP but lowers Friendship.
 142,"
--energy-root
-",medicine,restores-120-hp-but-lowers-friendship.
+ Energy Root
+",Medicine,Restores 120 HP but lowers Friendship.
 143,"
--enigma-berry
-",berries,"if-held-by-a-pokémon,-it-restores-its-hp-if-it-is-hit-by-any-supereffective-attack."
+ Enigma Berry
+",Berries,"If held by a Pokémon, it restores its HP if it is hit by any supereffective attack."
 144,"
--escape-rope
-",general-items,"a-long,-durable-rope.-use-it-to-escape-instantly-from-a-cave-or-a-dungeon."
+ Escape Rope
+",General items,"A long, durable rope. Use it to escape instantly from a cave or a dungeon."
 145,"
--ether
-",medicine,it-restores-the-pp-of-a-pokémon's-selected-move-by-a-maximum-of-10-points.
+ Ether
+",Medicine,It restores the PP of a Pokémon's selected move by a maximum of 10 points.
 146,"
--everstone
-",hold-items,an-item-to-be-held-by-a-pokémon.-the-pokémon-holding-this-peculiar-stone-is-prevented-from-evolving.
+ Everstone
+",Hold items,An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.
 147,"
--eviolite
-",hold-items,"a-mysterious-evolutionary-lump.-when-held,-it-raises-the-defense-and-sp.-def-of-a-pokémon-that-can-still-evolve."
+ Eviolite
+",Hold items,"A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve."
 148,"
--exp.-candy-l
-",medicine,
+ Exp. Candy L
+",Medicine,
 149,"
--exp.-candy-m
-",medicine,
+ Exp. Candy M
+",Medicine,
 150,"
--exp.-candy-s
-",medicine,
+ Exp. Candy S
+",Medicine,
 151,"
--exp.-candy-xl
-",medicine,"increases-the-pokémon's-exp-points-by-30,000."
+ Exp. Candy XL
+",Medicine,"Increases the Pokémon's Exp points by 30,000."
 152,"
--exp.-candy-xs
-",medicine,
+ Exp. Candy XS
+",Medicine,
 153,"
--exp.-share
-",hold-items,an-item-to-be-held-by-a-pokémon.-the-holder-gets-a-share-of-a-battle's-exp.-points-without-battling.
+ Exp. Share
+",Hold items,An item to be held by a Pokémon. The holder gets a share of a battle's Exp. Points without battling.
 154,"
--expert-belt
-",hold-items,increases-the-power-of-super-effective-moves.
+ Expert Belt
+",Hold items,Increases the power of super-effective moves.
 155,"
--fairium-z
-",hold-items,"allows-the-use-of-twinkle-tackle,-the-fairy-type-z-move."
+ Fairium Z
+",Hold items,"Allows the use of Twinkle Tackle, the Fairy type Z-Move."
 156,"
--fairy-gem
-",general-items,increases-the-power-of-a-fairy-type-move-only-once.
+ Fairy Gem
+",General items,Increases the power of a Fairy-type move only once.
 157,"
--fairy-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-fairy-type.
+ Fairy Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Fairy type.
 158,"
--fast-ball
-",pokeballs,a-poké-ball-that-makes-it-easier-to-catch-pokémon-which-are-quick-to-run-away.
+ Fast Ball
+",Pokeballs,A Poké Ball that makes it easier to catch Pokémon which are quick to run away.
 159,"
--festival-ticket
-",general-items,a-ticket-that-allows-you-to-host-a-mission-in-festival-plaza.
+ Festival Ticket
+",General items,A ticket that allows you to host a mission in Festival Plaza.
 160,"
--fighting-gem
-",hold-items,increases-the-power-of-a-fighting-type-move-only-once.
+ Fighting Gem
+",Hold items,Increases the power of a Fighting-type move only once.
 161,"
--fighting-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-fighting-type.
+ Fighting Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Fighting type.
 162,"
--fightinium-z
-",hold-items,"allows-the-use-of-all-out-pummeling,-the-fighting-type-z-move."
+ Fightinium Z
+",Hold items,"Allows the use of All-Out Pummeling, the Fighting type Z-Move."
 163,"
--figy-berry
-",berries,"restores-hp-if-it's-low,-but-may-cause-confusion."
+ Figy Berry
+",Berries,"Restores HP if it's low, but may cause confusion."
 164,"
--fire-gem
-",hold-items,increases-the-power-of-a-fire-type-move-only-once.
+ Fire Gem
+",Hold items,Increases the power of a Fire-type move only once.
 165,"
--fire-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-fire-type.
+ Fire Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Fire type.
 166,"
--fire-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Fire Stone
+",General items,Evolves certain species of Pokémon.
 167,"
--firium-z
-",hold-items,"allows-the-use-of-inferno-overdrive,-the-fire-type-z-move."
+ Firium Z
+",Hold items,"Allows the use of Inferno Overdrive, the Fire type Z-Move."
 168,"
--fist-plate
-",hold-items,increases-power-of-fighting-type-moves.-changes-arceus'-type-to-fighting.
+ Fist Plate
+",Hold items,Increases power of Fighting-type moves. Changes Arceus' type to Fighting.
 169,"
--flame-orb
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-is-a-bizarre-orb-that-inflicts-a-burn-on-the-holder-in-battle.
+ Flame Orb
+",Hold items,An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.
 170,"
--flame-plate
-",hold-items,increases-power-of-fire-type-moves.-changes-arceus'-type-to-fire.
+ Flame Plate
+",Hold items,Increases power of Fire-type moves. Changes Arceus' type to Fire.
 171,"
--float-stone
-",hold-items,a-very-light-stone.-it-reduces-the-weight-of-a-pokémon-when-held.
+ Float Stone
+",Hold items,A very light stone. It reduces the weight of a Pokémon when held.
 172,"
--flower-sweet
-",hold-items,evolves-milcery-into-flower-flavor-alcremie.
+ Flower Sweet
+",Hold items,Evolves Milcery into Flower Flavor Alcremie.
 173,"
--fluffy-tail
-",general-items,an-item-that-attracts-pokémon.-use-it-to-flee-from-any-battle-with-a-wild-pokémon.
+ Fluffy Tail
+",General items,An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
 174,"
--flying-gem
-",hold-items,increases-the-power-of-a-flying-type-move-only-once.
+ Flying Gem
+",Hold items,Increases the power of a Flying-type move only once.
 175,"
--flying-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-flying-type.
+ Flying Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Flying type.
 176,"
--flyinium-z
-",hold-items,"allows-the-use-of-supersonic-skystrike,-the-flying-type-z-move."
+ Flyinium Z
+",Hold items,"Allows the use of Supersonic Skystrike, the Flying type Z-Move."
 177,"
--focus-band
-",hold-items,"an-item-to-be-held-by-a-pokémon.-the-holder-may-endure-a-potential-ko-attack,-leaving-it-with-just-1-hp."
+ Focus Band
+",Hold items,"An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP."
 178,"
--focus-sash
-",hold-items,"an-item-to-be-held-by-a-pokémon.-if-it-has-full-hp,-the-holder-will-endure-one-potential-ko-attack,-leaving-1-hp."
+ Focus Sash
+",Hold items,"An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP."
 179,"
--fresh-water
-",medicine,restores-30-hp.
+ Fresh Water
+",Medicine,Restores 30 HP.
 180,"
--friend-ball
-",pokeballs,a-poké-ball-that-makes-caught-pokémon-more-friendly.
+ Friend Ball
+",Pokeballs,A Poké Ball that makes caught Pokémon more friendly.
 181,"
--full-heal
-",medicine,a-spray-type-medicine.-it-heals-all-the-status-problems-of-a-single-pokémon.
+ Full Heal
+",Medicine,A spray-type medicine. It heals all the status problems of a single Pokémon.
 182,"
--full-incense
-",hold-items,holder-always-attacks-last.-breeding-snorlax-produces-munchlax-when-held.
+ Full Incense
+",Hold items,Holder always attacks last. Breeding Snorlax produces Munchlax when held.
 183,"
--full-restore
-",medicine,a-medicine-that-fully-restores-the-hp-and-heals-any-status-problems-of-a-single-pokémon.
+ Full Restore
+",Medicine,A medicine that fully restores the HP and heals any status problems of a single Pokémon.
 184,"
--galladite
-",hold-items,enables-gallade-to-mega-evolve-during-battle.
+ Galladite
+",Hold items,Enables Gallade to Mega Evolve during battle.
 185,"
--ganlon-berry
-",berries,raises-defense-when-hp-is-low.
+ Ganlon Berry
+",Berries,Raises Defense when HP is low.
 186,"
--garchompite
-",hold-items,enables-garchomp-to-mega-evolve-during-battle.
+ Garchompite
+",Hold items,Enables Garchomp to Mega Evolve during battle.
 187,"
--gardevoirite
-",hold-items,enables-gardevoir-to-mega-evolve-during-battle.
+ Gardevoirite
+",Hold items,Enables Gardevoir to Mega Evolve during battle.
 188,"
--gengarite
-",hold-items,enables-gengar-to-mega-evolve-during-battle.
+ Gengarite
+",Hold items,Enables Gengar to Mega Evolve during battle.
 189,"
--genius-wing
-",medicine,increases-special-attack-evs-by-1.
+ Genius Wing
+",Medicine,Increases Special Attack EVs by 1.
 190,"
--gentle-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-gentle-nature.
+ Gentle Mint
+",Battle items,Changes the Pokémon's stats to match the Gentle nature.
 191,"
--ghost-gem
-",hold-items,increases-the-power-of-a-ghost-type-move-only-once.
+ Ghost Gem
+",Hold items,Increases the power of a Ghost-type move only once.
 192,"
--ghost-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-ghost-type.
+ Ghost Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Ghost type.
 193,"
--ghostium-z
-",hold-items,"allows-the-use-of-never-ending-nightmare,-the-ghost-type-z-move."
+ Ghostium Z
+",Hold items,"Allows the use of Never-Ending Nightmare, the Ghost type Z-Move."
 194,"
--glalitite
-",hold-items,enables-glalie-to-mega-evolve-during-battle.
+ Glalitite
+",Hold items,Enables Glalie to Mega Evolve during battle.
 195,"
--gold-bottle-cap
-",general-items,maximizes-all-of-a-pokémon's-iv-stats-in-hyper-training.
+ Gold Bottle Cap
+",General items,Maximizes all of a Pokémon's IV stats in Hyper Training.
 196,"
--gold-leaf
-",general-items,
+ Gold Leaf
+",General items,
 197,"
--golden-nanab-berry
-",berries,"drastically-calms-a-pokémon-in-battle,-in-let's-go-pikachu/eevee."
+ Golden Nanab Berry
+",Berries,"Drastically calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
 198,"
--golden-pinap-berry
-",berries,"drastically-increases-chance-of-getting-items-when-a-pokémon-is-caught,-in-pokémon-let's-go."
+ Golden Pinap Berry
+",Berries,"Drastically increases chance of getting items when a Pokémon is caught, in Pokémon Let's Go."
 199,"
--golden-razz-berry
-",berries,makes-a-pokémon-easier-to-catch-in-pokémon-let's-go.
+ Golden Razz Berry
+",Berries,Makes a Pokémon easier to catch in Pokémon Let's Go.
 200,"
--gooey-mulch
-",general-items,a-fertilizer-to-be-spread-on-soft-soil-in-regions-where-berries-are-grown.-a-maniac-will-buy-it-for-a-high-price.
+ Gooey Mulch
+",General items,A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
 201,"
--grass-gem
-",hold-items,increases-the-power-of-a-grass-type-move-only-once.
+ Grass Gem
+",Hold items,Increases the power of a Grass-type move only once.
 202,"
--grass-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-grass-type.
+ Grass Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Grass type.
 203,"
--grassium-z
-",hold-items,"allows-the-use-of-bloom-doom,-the-grass-type-z-move."
+ Grassium Z
+",Hold items,"Allows the use of Bloom Doom, the Grass type Z-Move."
 204,"
--grassy-seed
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-boosts-defense-on-grassy-terrain.-it-can-only-be-used-once.
+ Grassy Seed
+",Hold items,An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.
 205,"
--great-ball
-",pokeballs,"a-good,-high-performance-ball-that-provides-a-higher-pokémon-catch-rate-than-a-standard-poké-ball."
+ Great Ball
+",Pokeballs,"A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball."
 206,"
--green-apricorn
-",general-items,"a-green-apricorn.-it-has-a-mysterious,-aromatic-scent."
+ Green Apricorn
+",General items,"A green Apricorn. It has a mysterious, aromatic scent."
 207,"
--green-scarf
-",general-items,raises-holder's-smart-aspect-in-a-contest.
+ Green Scarf
+",General items,Raises holder's Smart aspect in a Contest.
 208,"
--green-shard
-",general-items,a-small-green-shard.-it-appears-to-be-from-some-sort-of-implement-made-long-ago.
+ Green Shard
+",General items,A small green shard. It appears to be from some sort of implement made long ago.
 209,"
--grepa-berry
-",berries,increases-friendship-but-lowers-special-defense-evs.
+ Grepa Berry
+",Berries,Increases Friendship but lowers Special Defense EVs.
 210,"
--grip-claw
-",hold-items,a-pokémon-held-item-that-extends-the-duration-of-multiturn-attacks-like-bind-and-wrap.
+ Grip Claw
+",Hold items,A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.
 211,"
--griseous-orb
-",hold-items,"increases-the-power-of-dragon--and-ghost-type-moves-when-held-by-giratina,-and-changes-it-to-origin-forme."
+ Griseous Orb
+",Hold items,"Increases the power of Dragon- and Ghost-type moves when held by Giratina, and changes it to Origin Forme."
 212,"
--ground-gem
-",hold-items,increases-the-power-of-a-ground-type-move-only-once.
+ Ground Gem
+",Hold items,Increases the power of a Ground-type move only once.
 213,"
--ground-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-ground-type.
+ Ground Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Ground type.
 214,"
--groundium-z
-",hold-items,"allows-the-use-of-tectonic-rage,-the-ground-type-z-move."
+ Groundium Z
+",Hold items,"Allows the use of Tectonic Rage, the Ground type Z-Move."
 215,"
--growth-mulch
-",general-items,a-fertilizer-to-be-spread-on-soft-soil-in-regions-where-berries-are-grown.-a-maniac-will-buy-it-for-a-high-price.
+ Growth Mulch
+",General items,A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
 216,"
--grubby-hanky
-",hold-items,a-handkerchief-dropped-by-a-regular-at-café-warehouse.-it-smells-faintly-like-a-pokémon.
+ Grubby Hanky
+",Hold items,A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon.
 217,"
--guard-spec.
-",battle-items,prevents-stat-reduction-for-five-turns.
+ Guard Spec.
+",Battle items,Prevents stat reduction for five turns.
 218,"
--gyaradosite
-",hold-items,enables-gyarados-to-mega-evolve-during-battle.
+ Gyaradosite
+",Hold items,Enables Gyarados to Mega Evolve during battle.
 219,"
--haban-berry
-",berries,weakens-a-supereffective-dragon-type-attack-against-the-holding-pokémon.
+ Haban Berry
+",Berries,Weakens a supereffective Dragon-type attack against the holding Pokémon.
 220,"
--hard-stone
-",hold-items,increases-the-power-of-rock-type-moves.
+ Hard Stone
+",Hold items,Increases the power of Rock-type moves.
 221,"
--hasty-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-hasty-nature.
+ Hasty Mint
+",Battle items,Changes the Pokémon's stats to match the Hasty nature.
 222,"
--heal-ball
-",pokeballs,a-remedial-poké-ball-that-restores-the-caught-pokémon's-hp-and-eliminates-any-status-problem.
+ Heal Ball
+",Pokeballs,A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.
 223,"
--heal-powder
-",medicine,"heals-all-status-problems,-but-lowers-friendship."
+ Heal Powder
+",Medicine,"Heals all status problems, but lowers Friendship."
 224,"
--health-candy
-",medicine,increases-a-pokémon's-hp-stat-by-1.
+ Health Candy
+",Medicine,Increases a Pokémon's HP stat by 1.
 225,"
--health-candy-l
-",medicine,increases-a-pokémon's-hp-stat.
+ Health Candy L
+",Medicine,Increases a Pokémon's HP stat.
 226,"
--health-candy-xl
-",medicine,increases-a-pokémon's-hp-stat.
+ Health Candy XL
+",Medicine,Increases a Pokémon's HP stat.
 227,"
--health-wing
-",medicine,increases-hp-evs-by-1.
+ Health Wing
+",Medicine,Increases HP EVs by 1.
 228,"
--heart-scale
-",general-items,"a-pretty,-heart-shaped-scale-that-is-extremely-rare.-it-glows-faintly-in-the-colors-of-the-rainbow."
+ Heart Scale
+",General items,"A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow."
 229,"
--heat-rock
-",hold-items,a-pokémon-held-item-that-extends-the-duration-of-the-move-sunny-day-used-by-the-holder.
+ Heat Rock
+",Hold items,A Pokémon held item that extends the duration of the move Sunny Day used by the holder.
 230,"
--heavy-ball
-",pokeballs,a-poké-ball-for-catching-very-heavy-pokémon.
+ Heavy Ball
+",Pokeballs,A Poké Ball for catching very heavy Pokémon.
 231,"
--heavy-duty-boots
-",hold-items,protects-the-holder-from-traps-set-on-the-battlefield.
+ Heavy-Duty Boots
+",Hold items,Protects the holder from traps set on the battlefield.
 232,"
--helix-fossil
-",general-items,a-fossil-of-an-ancient-pokémon-that-lived-in-the-sea.-it-appears-to-be-part-of-a-seashell.
+ Helix Fossil
+",General items,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell.
 233,"
--heracronite
-",hold-items,enables-heracross-to-mega-evolve-during-battle.
+ Heracronite
+",Hold items,Enables Heracross to Mega Evolve during battle.
 234,"
--hi-tech-earbuds
-",hold-items,strange-earbuds-that-allow-you-to-freely-control-the-volume-of-various-sounds.
+ Hi-tech Earbuds
+",Hold items,Strange earbuds that allow you to freely control the volume of various sounds.
 235,"
--hm01
-",machines,teaches-the-move-cut.
+ HM01
+",Machines,Teaches the move Cut.
 236,"
--hm02
-",machines,teaches-the-move-fly.
+ HM02
+",Machines,Teaches the move Fly.
 237,"
--hm03
-",machines,teaches-the-move-surf.
+ HM03
+",Machines,Teaches the move Surf.
 238,"
--hm04
-",machines,teaches-the-move-strength.
+ HM04
+",Machines,Teaches the move Strength.
 239,"
--hm05
-",machines,teaches-the-move-flash/defog/whirlpool/waterfall.
+ HM05
+",Machines,Teaches the move Flash/Defog/Whirlpool/Waterfall.
 240,"
--hm06
-",machines,teaches-the-move-whirlpool/rock-smash/dive.
+ HM06
+",Machines,Teaches the move Whirlpool/Rock Smash/Dive.
 241,"
--hm07
-",machines,teaches-the-move-waterfall.
+ HM07
+",Machines,Teaches the move Waterfall.
 242,"
--hm08
-",machines,teaches-the-move-dive/rock-climb.
+ HM08
+",Machines,Teaches the move Dive/Rock Climb.
 243,"
--hondew-berry
-",berries,increases-friendship-but-lowers-special-attack-evs.
+ Hondew Berry
+",Berries,Increases Friendship but lowers Special Attack EVs.
 244,"
--honey
-",general-items,"a-sweet-honey-with-a-lush-aroma-that-attracts-wild-pokémon-when-it-is-used-in-grass,-caves,-or-on-special-trees."
+ Honey
+",General items,"A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees."
 245,"
--honor-of-kalos
-",hold-items,a-precious-symbol-that-is-awarded-only-to-an-individual-who-has-done-great-things-for-the-kalos-region.
+ Honor Of Kalos
+",Hold items,A precious symbol that is awarded only to an individual who has done great things for the Kalos region.
 246,"
--houndoominite
-",hold-items,enables-houndoom-to-mega-evolve-during-battle.
+ Houndoominite
+",Hold items,Enables Houndoom to Mega Evolve during battle.
 247,"
--hp-up
-",medicine,increases-hp-evs-by-10.
+ HP Up
+",Medicine,Increases HP EVs by 10.
 248,"
--hyper-potion
-",medicine,restores-120-hp.
+ Hyper Potion
+",Medicine,Restores 120 HP.
 249,"
--iapapa-berry
-",berries,"restores-hp-if-it's-low,-but-may-cause-confusion."
+ Iapapa Berry
+",Berries,"Restores HP if it's low, but may cause confusion."
 250,"
--ice-gem
-",hold-items,increases-the-power-of-an-ice-type-move-only-once.
+ Ice Gem
+",Hold items,Increases the power of an Ice-type move only once.
 251,"
--ice-heal
-",medicine,a-spray-type-medicine.-it-defrosts-a-pokémon-that-has-been-frozen-solid.
+ Ice Heal
+",Medicine,A spray-type medicine. It defrosts a Pokémon that has been frozen solid.
 252,"
--ice-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-ice-type.
+ Ice Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Ice type.
 253,"
--ice-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Ice Stone
+",General items,Evolves certain species of Pokémon.
 254,"
--icicle-plate
-",hold-items,increases-power-of-ice-type-moves.-changes-arceus'-type-to-ice.
+ Icicle Plate
+",Hold items,Increases power of Ice-type moves. Changes Arceus' type to Ice.
 255,"
--icium-z
-",hold-items,"allows-the-use-of-subzero-slammer,-the-ice-type-z-move."
+ Icium Z
+",Hold items,"Allows the use of Subzero Slammer, the Ice type Z-Move."
 256,"
--icy-rock
-",hold-items,a-pokémon-held-item-that-extends-the-duration-of-the-move-hail-used-by-the-holder.
+ Icy Rock
+",Hold items,A Pokémon held item that extends the duration of the move Hail used by the holder.
 257,"
--impish-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-impish-nature.
+ Impish Mint
+",Battle items,Changes the Pokémon's stats to match the Impish nature.
 258,"
--incinium-z
-",hold-items,"allows-incineroar-to-upgrade-darkest-lariat-to-a-z-move,-malicious-moonsault."
+ Incinium Z
+",Hold items,"Allows Incineroar to upgrade Darkest Lariat to a Z-Move, Malicious Moonsault."
 259,"
--insect-plate
-",hold-items,increases-power-of-bug-type-moves.-changes-arceus'-type-to-bug.
+ Insect Plate
+",Hold items,Increases power of Bug-type moves. Changes Arceus' type to Bug.
 260,"
--intriguing-stone
-",hold-items,a-rather-curious-stone-that-might-appear-to-be-valuable-to-some.-it's-all-in-the-eye-of-the-beholder.
+ Intriguing Stone
+",Hold items,A rather curious stone that might appear to be valuable to some. It's all in the eye of the beholder.
 261,"
--iron
-",medicine,increases-defense-evs-by-10.
+ Iron
+",Medicine,Increases Defense EVs by 10.
 262,"
--iron-ball
-",hold-items,a-pokémon-held-item-that-cuts-speed.-it-makes-flying-type-and-levitating-holders-susceptible-to-ground-moves.
+ Iron Ball
+",Hold items,A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
 263,"
--iron-plate
-",hold-items,increases-power-of-steel-type-moves.-changes-arceus'-type-to-steel.
+ Iron Plate
+",Hold items,Increases power of Steel-type moves. Changes Arceus' type to Steel.
 264,"
--item-drop
-",battle-items,"when-used,-it-causes-an-ally-pokémon-to-drop-a-held-item."
+ Item Drop
+",Battle items,"When used, it causes an ally Pokémon to drop a held item."
 265,"
--item-urge
-",battle-items,"when-used,-it-causes-an-ally-pokémon-to-use-its-held-item."
+ Item Urge
+",Battle items,"When used, it causes an ally Pokémon to use its held item."
 266,"
--jaboca-berry
-",berries,"if-held-by-a-pokémon-and-a-physical-attack-lands,-the-attacker-also-takes-damage."
+ Jaboca Berry
+",Berries,"If held by a Pokémon and a physical attack lands, the attacker also takes damage."
 267,"
--jolly-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-jolly-nature.
+ Jolly Mint
+",Battle items,Changes the Pokémon's stats to match the Jolly nature.
 268,"
--kangaskhanite
-",hold-items,enables-kangaskhan-to-mega-evolve-during-battle.
+ Kangaskhanite
+",Hold items,Enables Kangaskhan to Mega Evolve during battle.
 269,"
--kasib-berry
-",berries,weakens-a-supereffective-ghost-type-attack-against-the-holding-pokémon.
+ Kasib Berry
+",Berries,Weakens a supereffective Ghost-type attack against the holding Pokémon.
 270,"
--kebia-berry
-",berries,weakens-a-supereffective-poison-type-attack-against-the-holding-pokémon.
+ Kebia Berry
+",Berries,Weakens a supereffective Poison-type attack against the holding Pokémon.
 271,"
--kee-berry
-",berries,"if-held-by-a-pokémon,-this-berry-will-increase-the-holder's-defense-if-it's-hit-with-a-physical-move."
+ Kee Berry
+",Berries,"If held by a Pokémon, this Berry will increase the holder's Defense if it's hit with a physical move."
 272,"
--kelpsy-berry
-",berries,increases-friendship-but-lowers-attack-evs.
+ Kelpsy Berry
+",Berries,Increases Friendship but lowers Attack EVs.
 273,"
--king's-rock
-",hold-items,may-cause-opponent-to-flinch.-evolves-poliwhirl-and-slowpoke-when-traded-holding-the-item.
+ King's Rock
+",Hold items,May cause opponent to flinch. Evolves Poliwhirl and Slowpoke when traded holding the item.
 274,"
--kommonium-z
-",hold-items,"allows-kommo-o-to-upgrade-clanging-scales-to-a-z-move,-clangorous-soulblaze."
+ Kommonium Z
+",Hold items,"Allows Kommo-o to upgrade Clanging Scales to a Z-Move, Clangorous Soulblaze."
 275,"
--lagging-tail
-",hold-items,holder-always-attacks-last.
+ Lagging Tail
+",Hold items,Holder always attacks last.
 276,"
--lansat-berry
-",berries,increases-critical-hit-ratio-when-hp-is-low.
+ Lansat Berry
+",Berries,Increases critical-hit ratio when HP is low.
 277,"
--latiasite
-",hold-items,enables-latias-to-mega-evolve-during-battle.
+ Latiasite
+",Hold items,Enables Latias to Mega Evolve during battle.
 278,"
--latiosite
-",hold-items,enables-latios-to-mega-evolve-during-battle.
+ Latiosite
+",Hold items,Enables Latios to Mega Evolve during battle.
 279,"
--lava-cookie
-",medicine,heals-all-major-status-conditions.
+ Lava Cookie
+",Medicine,Heals all major status conditions.
 280,"
--lax-incense
-",hold-items,lowers-the-opponent's-accuracy.-breeding-wobbuffet-produces-wynaut-when-held.
+ Lax Incense
+",Hold items,Lowers the opponent's accuracy. Breeding Wobbuffet produces Wynaut when held.
 281,"
--lax-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-lax-nature.
+ Lax Mint
+",Battle items,Changes the Pokémon's stats to match the Lax nature.
 282,"
--leaf-letter
-",general-items,a-letter-written-on-a-leaf.-something-is-written-using-eevee's-footprints.
+ Leaf Letter
+",General items,A letter written on a leaf. Something is written using Eevee's footprints.
 283,"
--leaf-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Leaf Stone
+",General items,Evolves certain species of Pokémon.
 284,"
--leftovers
-",hold-items,an-item-to-be-held-by-a-pokémon.-the-holder's-hp-is-gradually-restored-during-battle.
+ Leftovers
+",Hold items,An item to be held by a Pokémon. The holder's HP is gradually restored during battle.
 285,"
--lemonade
-",medicine,restores-70-hp.
+ Lemonade
+",Medicine,Restores 70 HP.
 286,"
--leppa-berry
-",berries,"if-held-by-a-pokémon,-it-restores-a-move's-pp-by-10."
+ Leppa Berry
+",Berries,"If held by a Pokémon, it restores a move's PP by 10."
 287,"
--level-ball
-",pokeballs,a-poké-ball-for-catching-pokémon-that-are-a-lower-level-than-your-own.
+ Level Ball
+",Pokeballs,A Poké Ball for catching Pokémon that are a lower level than your own.
 288,"
--liechi-berry
-",berries,raises-attack-when-hp-is-low.
+ Liechi Berry
+",Berries,Raises Attack when HP is low.
 289,"
--life-orb
-",hold-items,"increases-the-power-of-moves,-but-loses-hp-each-turn."
+ Life Orb
+",Hold items,"Increases the power of moves, but loses HP each turn."
 290,"
--light-ball
-",hold-items,an-item-to-be-held-by-pikachu.-it-is-a-puzzling-orb-that-raises-the-attack-and-sp.-atk-stat.
+ Light Ball
+",Hold items,An item to be held by PIKACHU. It is a puzzling orb that raises the Attack and Sp. Atk stat.
 291,"
--light-clay
-",hold-items,a-pokémon-held-item-that-extends-the-duration-of-barrier-moves-like-light-screen-and-reflect-used-by-the-holder.
+ Light Clay
+",Hold items,A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.
 292,"
--lone-earring
-",general-items,
+ Lone Earring
+",General items,
 293,"
--lonely-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-lonely-nature.
+ Lonely Mint
+",Battle items,Changes the Pokémon's stats to match the Lonely nature.
 294,"
--looker-ticket
-",hold-items,a-ticket-that-was-handmade-by-looker.-it's-decorated-with-a-liberal-amount-of-glittery-paint.
+ Looker Ticket
+",Hold items,A ticket that was handmade by Looker. It's decorated with a liberal amount of glittery paint.
 295,"
--lopunnite
-",hold-items,enables-lopunny-to-mega-evolve-during-battle.
+ Lopunnite
+",Hold items,Enables Lopunny to Mega Evolve during battle.
 296,"
--love-ball
-",pokeballs,poké-ball-for-catching-pokémon-that-are-the-opposite-gender-of-your-pokémon.
+ Love Ball
+",Pokeballs,Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.
 297,"
--love-sweet
-",hold-items,evolves-milcery-into-heart-flavor-alcremie.
+ Love Sweet
+",Hold items,Evolves Milcery into Heart Flavor Alcremie.
 298,"
--lucarionite
-",hold-items,enables-lucario-to-mega-evolve-during-battle.
+ Lucarionite
+",Hold items,Enables Lucario to Mega Evolve during battle.
 299,"
--luck-incense
-",hold-items,doubles-prize-money-if-held.-breeding-chansey-or-blissey-produces-happiny-when-held.
+ Luck Incense
+",Hold items,Doubles prize money if held. Breeding Chansey or Blissey produces Happiny when held.
 300,"
--lucky-egg
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-is-an-egg-filled-with-happiness-that-earns-extra-exp.-points-in-battle.
+ Lucky Egg
+",Hold items,An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.
 301,"
--lucky-punch
-",hold-items,increases-critical-hit-ratio-when-held-by-chansey.
+ Lucky Punch
+",Hold items,Increases critical-hit ratio when held by Chansey.
 302,"
--lum-berry
-",berries,"if-held-by-a-pokémon,-it-recovers-from-any-status-problem."
+ Lum Berry
+",Berries,"If held by a Pokémon, it recovers from any status problem."
 303,"
--luminous-moss
-",hold-items,raises-special-defense-if-hit-by-a-water-type-move.
+ Luminous Moss
+",Hold items,Raises Special Defense if hit by a Water-type move.
 304,"
--lumiose-galette
-",medicine,heals-all-major-status-conditions.
+ Lumiose Galette
+",Medicine,Heals all major status conditions.
 305,"
--lunalium-z
-",hold-items,"allows-lunala-to-upgrade-moongeist-beam-to-a-z-move,-menacing-moonraze-maelstrom."
+ Lunalium Z
+",Hold items,"Allows Lunala to upgrade Moongeist Beam to a Z-Move, Menacing Moonraze Maelstrom."
 306,"
--lure
-",general-items,attracts-pokémon-in-the-wild.
+ Lure
+",General items,Attracts Pokémon in the wild.
 307,"
--lure-ball
-",pokeballs,a-poké-ball-for-catching-pokémon-hooked-by-a-rod-when-fishing.
+ Lure Ball
+",Pokeballs,A Poké Ball for catching Pokémon hooked by a Rod when fishing.
 308,"
--lustrous-orb
-",hold-items,increases-the-power-of-dragon--and-water-type-moves-when-held-by-palkia.
+ Lustrous Orb
+",Hold items,Increases the power of Dragon- and Water-type moves when held by Palkia.
 309,"
--luxury-ball
-",pokeballs,a-comfortable-poké-ball-that-makes-a-caught-wild-pokémon-quickly-grow-friendly.
+ Luxury Ball
+",Pokeballs,A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.
 310,"
--lycanium-z
-",hold-items,"allows-lycanroc-to-upgrade-stone-edge-to-a-z-move,-splintered-stormshards."
+ Lycanium Z
+",Hold items,"Allows Lycanroc to upgrade Stone Edge to a Z-Move, Splintered Stormshards."
 311,"
--macho-brace
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-is-a-stiff-and-heavy-brace-that-promotes-strong-growth-but-lowers-speed.
+ Macho Brace
+",Hold items,An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed.
 312,"
--magmarizer
-",general-items,evolves-magmar-when-traded-holding-the-item.
+ Magmarizer
+",General items,Evolves Magmar when traded holding the item.
 313,"
--magnet
-",hold-items,increases-the-power-of-electric-type-moves.
+ Magnet
+",Hold items,Increases the power of Electric-type moves.
 314,"
--mago-berry
-",berries,"restores-hp-if-it's-low,-but-may-cause-confusion."
+ Mago Berry
+",Berries,"Restores HP if it's low, but may cause confusion."
 315,"
--magost-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Magost Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 316,"
--manectite
-",hold-items,enables-manectric-to-mega-evolve-during-battle.
+ Manectite
+",Hold items,Enables Manectric to Mega Evolve during battle.
 317,"
--maranga-berry
-",berries,"if-held-by-a-pokémon,-this-berry-will-increase-the-holder's-sp.-def-if-it's-hit-with-a-special-move."
+ Maranga Berry
+",Berries,"If held by a Pokémon, this Berry will increase the holder's Sp. Def if it's hit with a special move."
 318,"
--marble
-",general-items,
+ Marble
+",General items,
 319,"
--marshadium-z
-",hold-items,"allows-marshadow-to-upgrade-spectral-thief-to-a-z-move,-soul-stealing-7-star-strike."
+ Marshadium Z
+",Hold items,"Allows Marshadow to upgrade Spectral Thief to a Z-Move, Soul-Stealing 7-Star Strike."
 320,"
--master-ball
-",pokeballs,the-best-ball-with-the-ultimate-level-of-performance.-it-will-catch-any-wild-pokémon-without-fail.
+ Master Ball
+",Pokeballs,The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
 321,"
--mawilite
-",hold-items,enables-mawile-to-mega-evolve-during-battle.
+ Mawilite
+",Hold items,Enables Mawile to Mega Evolve during battle.
 322,"
--max-elixir
-",medicine,it-fully-restores-the-pp-of-all-the-moves-learned-by-the-targeted-pokémon.
+ Max Elixir
+",Medicine,It fully restores the PP of all the moves learned by the targeted Pokémon.
 323,"
--max-ether
-",medicine,it-fully-restores-the-pp-of-a-single-selected-move-that-has-been-learned-by-the-target-pokémon.
+ Max Ether
+",Medicine,It fully restores the PP of a single selected move that has been learned by the target Pokémon.
 324,"
--max-lure
-",general-items,attracts-pokémon-in-the-wild.
+ Max Lure
+",General items,Attracts Pokémon in the wild.
 325,"
--max-potion
-",medicine,fully-restores-hp.
+ Max Potion
+",Medicine,Fully restores HP.
 326,"
--max-repel
-",general-items,an-item-that-prevents-weak-wild-pokémon-from-appearing-for-250-steps-after-its-use.
+ Max Repel
+",General items,An item that prevents weak wild Pokémon from appearing for 250 steps after its use.
 327,"
--max-revive
-",medicine,a-medicine-that-revives-a-fainted-pokémon.-it-fully-restores-the-pokémon's-hp.
+ Max Revive
+",Medicine,A medicine that revives a fainted Pokémon. It fully restores the Pokémon's HP.
 328,"
--meadow-plate
-",hold-items,increases-power-of-grass-type-moves.-changes-arceus'-type-to-grass.
+ Meadow Plate
+",Hold items,Increases power of Grass-type moves. Changes Arceus' type to Grass.
 329,"
--medichamite
-",hold-items,enables-medicham-to-mega-evolve-during-battle.
+ Medichamite
+",Hold items,Enables Medicham to Mega Evolve during battle.
 330,"
--mental-herb
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-snaps-the-holder-out-of-infatuation.-it-can-be-used-only-once.
+ Mental Herb
+",Hold items,An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.
 331,"
--metagrossite
-",hold-items,enables-metagross-to-mega-evolve-during-battle.
+ Metagrossite
+",Hold items,Enables Metagross to Mega Evolve during battle.
 332,"
--metal-coat
-",hold-items,increases-the-power-of-steel-type-moves.-evolves-onix-and-scyther-when-traded-holding-the-item.
+ Metal Coat
+",Hold items,Increases the power of Steel-type moves. Evolves Onix and Scyther when traded holding the item.
 333,"
--metal-powder
-",hold-items,increases-defense-when-held-by-ditto.
+ Metal Powder
+",Hold items,Increases Defense when held by Ditto.
 334,"
--metronome
-",hold-items,increases-the-power-of-moves-used-consecutively.
+ Metronome
+",Hold items,Increases the power of moves used consecutively.
 335,"
--mewnium-z
-",hold-items,"allows-mew-to-upgrade-psychic-to-a-z-move,-genesis-supernova."
+ Mewnium Z
+",Hold items,"Allows Mew to upgrade Psychic to a Z-Move, Genesis Supernova."
 336,"
--mewtwonite-x
-",hold-items,enables-mewtwo-to-mega-evolve-during-battle.
+ Mewtwonite X
+",Hold items,Enables Mewtwo to Mega Evolve during battle.
 337,"
--mewtwonite-y
-",hold-items,enables-mewtwo-to-mega-evolve-during-battle.
+ Mewtwonite Y
+",Hold items,Enables Mewtwo to Mega Evolve during battle.
 338,"
--micle-berry
-",berries,increases-a-move's-accuracy-when-hp-is-low.
+ Micle Berry
+",Berries,Increases a move's accuracy when HP is low.
 339,"
--mighty-candy
-",medicine,increases-a-pokémon's-attack-stat-by-1.
+ Mighty Candy
+",Medicine,Increases a Pokémon's Attack stat by 1.
 340,"
--mighty-candy-l
-",medicine,increases-a-pokémon's-attack-stat.
+ Mighty Candy L
+",Medicine,Increases a Pokémon's Attack stat.
 341,"
--mighty-candy-xl
-",medicine,increases-a-pokémon's-attack-stat.
+ Mighty Candy XL
+",Medicine,Increases a Pokémon's Attack stat.
 342,"
--mild-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-mild-nature.
+ Mild Mint
+",Battle items,Changes the Pokémon's stats to match the Mild nature.
 343,"
--mimikium-z
-",hold-items,"allows-mimikyu-to-upgrade-play-rough-to-a-z-move,-let's-snuggle-forever."
+ Mimikium Z
+",Hold items,"Allows Mimikyu to upgrade Play Rough to a Z-Move, Let's Snuggle Forever."
 344,"
--mind-plate
-",hold-items,increases-power-of-psychic-type-moves.-changes-arceus'-type-to-psychic.
+ Mind Plate
+",Hold items,Increases power of Psychic-type moves. Changes Arceus' type to Psychic.
 345,"
--miracle-seed
-",hold-items,increases-the-power-of-grass-type-moves.
+ Miracle Seed
+",Hold items,Increases the power of Grass-type moves.
 346,"
--misty-seed
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-boosts-sp.-def-on-misty-terrain.-it-can-only-be-used-once.
+ Misty Seed
+",Hold items,An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.
 347,"
--modest-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-modest-nature.
+ Modest Mint
+",Battle items,Changes the Pokémon's stats to match the Modest nature.
 348,"
--moomoo-milk
-",medicine,milk-with-a-very-high-nutrition-content.-it-restores-the-hp-of-one-pokémon-by-100-points.
+ Moomoo Milk
+",Medicine,Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.
 349,"
--moon-ball
-",pokeballs,a-poké-ball-for-catching-pokémon-that-evolve-using-the-moon-stone.
+ Moon Ball
+",Pokeballs,A Poké Ball for catching Pokémon that evolve using the Moon Stone.
 350,"
--moon-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Moon Stone
+",General items,Evolves certain species of Pokémon.
 351,"
--muscle-band
-",hold-items,increases-the-power-of-physical-category-moves.
+ Muscle Band
+",Hold items,Increases the power of Physical-category moves.
 352,"
--muscle-wing
-",medicine,increases-attack-evs-by-1.
+ Muscle Wing
+",Medicine,Increases Attack EVs by 1.
 353,"
--mystic-water
-",hold-items,increases-the-power-of-water-type-moves.
+ Mystic Water
+",Hold items,Increases the power of Water-type moves.
 354,"
--naive-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-naive-nature.
+ Naive Mint
+",Battle items,Changes the Pokémon's stats to match the Naive nature.
 355,"
--nanab-berry
-",berries,"a-berry-to-be-used-in-cooking.-calms-a-pokémon-in-battle,-in-let's-go-pikachu/eevee."
+ Nanab Berry
+",Berries,"A Berry to be used in cooking. Calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
 356,"
--naughty-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-naughty-nature.
+ Naughty Mint
+",Battle items,Changes the Pokémon's stats to match the Naughty nature.
 357,"
--nest-ball
-",pokeballs,a-somewhat-different-poké-ball-that-works-especially-well-on-weaker-pokémon-in-the-wild.
+ Nest Ball
+",Pokeballs,A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.
 358,"
--net-ball
-",pokeballs,a-somewhat-different-poké-ball-that-works-especially-well-on-water--and-bug-type-pokémon.
+ Net Ball
+",Pokeballs,A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.
 359,"
--never-melt-ice
-",hold-items,increases-the-power-of-ice-type-moves.
+ Never-Melt Ice
+",Hold items,Increases the power of Ice-type moves.
 360,"
--nomel-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Nomel Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 361,"
--normal-gem
-",hold-items,increases-the-power-of-a-normal-type-move-only-once.
+ Normal Gem
+",Hold items,Increases the power of a Normal-type move only once.
 362,"
--normalium-z
-",hold-items,"allows-the-use-of-breakneck-blitz,-the-normal-type-z-move."
+ Normalium Z
+",Hold items,"Allows the use of Breakneck Blitz, the Normal type Z-Move."
 363,"
--nugget
-",general-items,a-nugget-of-pure-gold-that-gives-off-a-lustrous-gleam.-it-can-be-sold-at-a-high-price-to-shops.
+ Nugget
+",General items,A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.
 364,"
--occa-berry
-",berries,weakens-a-supereffective-fire-type-attack-against-the-holding-pokémon.
+ Occa Berry
+",Berries,Weakens a supereffective Fire-type attack against the holding Pokémon.
 365,"
--odd-incense
-",hold-items,increases-the-power-of-psychic-type-moves.-breeding-mr.-mime-produces-mime-jr.-when-held.
+ Odd Incense
+",Hold items,Increases the power of Psychic-type moves. Breeding Mr. Mime produces Mime Jr. when held.
 366,"
--odd-keystone
-",general-items,a-vital-item-that-is-needed-to-keep-a-stone-tower-from-collapsing.-voices-can-be-heard-from-it-occasionally.
+ Odd Keystone
+",General items,A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.
 367,"
--old-amber
-",general-items,a-piece-of-amber-that-contains-the-genetic-material-of-an-ancient-pokémon.-it-is-clear-with-a-reddish-tint.
+ Old Amber
+",General items,A piece of amber that contains the genetic material of an ancient Pokémon. It is clear with a reddish tint.
 368,"
--old-gateau
-",medicine,heals-all-major-status-conditions.
+ Old Gateau
+",Medicine,Heals all major status conditions.
 369,"
--oran-berry
-",berries,"if-held-by-a-pokémon,-it-heals-the-user-by-just-10-hp."
+ Oran Berry
+",Berries,"If held by a Pokémon, it heals the user by just 10 HP."
 370,"
--oval-charm
-",general-items,an-oval-charm-said-to-increase-the-chance-of-pokémon-eggs-being-found-at-the-day-care.
+ Oval Charm
+",General items,An oval charm said to increase the chance of Pokémon Eggs being found at the Day Care.
 371,"
--oval-stone
-",general-items,evolves-happiny-when-held.
+ Oval Stone
+",General items,Evolves Happiny when held.
 372,"
--pack-of-potatoes
-",general-items,
+ Pack of Potatoes
+",General items,
 373,"
--pamtre-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Pamtre Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 374,"
--paralyze-heal
-",medicine,a-spray-type-medicine.-it-eliminates-paralysis-from-a-single-pokémon.
+ Paralyze Heal
+",Medicine,A spray-type medicine. It eliminates paralysis from a single Pokémon.
 375,"
--park-ball
-",pokeballs,a-special-poké-ball-for-the-pal-park.
+ Park Ball
+",Pokeballs,A special Poké Ball for the Pal Park.
 376,"
--pass-orb
-",hold-items,"a-mysterious-orb-containing-the-power-of-the-unova-region,-to-be-used-when-generating-pass-power."
+ Pass Orb
+",Hold items,"A mysterious orb containing the power of the Unova region, to be used when generating Pass Power."
 377,"
--passho-berry
-",berries,weakens-a-supereffective-water-type-attack-against-the-holding-pokémon.
+ Passho Berry
+",Berries,Weakens a supereffective Water-type attack against the holding Pokémon.
 378,"
--payapa-berry
-",berries,weakens-a-supereffective-psychic-type-attack-against-the-holding-pokémon.
+ Payapa Berry
+",Berries,Weakens a supereffective Psychic-type attack against the holding Pokémon.
 379,"
--pearl
-",general-items,a-somewhat-small-pearl-that-sparkles-in-a-pretty-silver-color.-it-can-be-sold-cheaply-to-shops.
+ Pearl
+",General items,A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
 380,"
--pearl-string
-",general-items,very-large-pearls-that-sparkle-in-a-pretty-silver-color.-a-maniac-will-buy-them-for-a-high-price.
+ Pearl String
+",General items,Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.
 381,"
--pecha-berry
-",berries,"if-held-by-a-pokémon,-it-recovers-from-poison."
+ Pecha Berry
+",Berries,"If held by a Pokémon, it recovers from poison."
 382,"
--permit
-",general-items,a-permit-that-is-needed-to-enter-the-nature-preserve.-not-many-know-about-it.
+ Permit
+",General items,A permit that is needed to enter the Nature Preserve. Not many know about it.
 383,"
--persim-berry
-",berries,"if-held-by-a-pokémon,-it-recovers-from-confusion."
+ Persim Berry
+",Berries,"If held by a Pokémon, it recovers from confusion."
 384,"
--petaya-berry
-",berries,raises-special-attack-when-hp-is-low.
+ Petaya Berry
+",Berries,Raises Special Attack when HP is low.
 385,"
--pewter-crunchies
-",medicine,heals-all-major-status-conditions.
+ Pewter Crunchies
+",Medicine,Heals all major status conditions.
 386,"
--pidgeotite
-",hold-items,enables-pidgeot-to-mega-evolve-during-battle.
+ Pidgeotite
+",Hold items,Enables Pidgeot to Mega Evolve during battle.
 387,"
--pikanium-z
-",hold-items,"allows-pikachu-to-upgrade-volt-tackle-to-a-z-move,-catastropika."
+ Pikanium Z
+",Hold items,"Allows Pikachu to upgrade Volt Tackle to a Z-Move, Catastropika."
 388,"
--pikashunium-z
-",hold-items,"allows-pikachu-in-a-cap-to-upgrade-thunderbolt-to-a-z-move,-10,000,000-volt-thunderbolt."
+ Pikashunium Z
+",Hold items,"Allows Pikachu in a cap to upgrade Thunderbolt to a Z-Move, 10,000,000 Volt Thunderbolt."
 389,"
--pinap-berry
-",berries,"a-berry-to-be-used-in-cooking.-increases-chances-of-getting-items-when-a-pokémon-is-caught,-in-pokémon-let's-go."
+ Pinap Berry
+",Berries,"A Berry to be used in cooking. Increases chances of getting items when a Pokémon is caught, in Pokémon Let's Go."
 390,"
--pink-apricorn
-",general-items,"a-pink-apricorn.-it-has-a-nice,-sweet-scent."
+ Pink Apricorn
+",General items,"A pink Apricorn. It has a nice, sweet scent."
 391,"
--pink-nectar
-",hold-items,the-flower-nectar-obtained-at-the-flowering-shrubs-on-royal-avenue.-it-changes-the-form-of-certain-species-of-pokémon.
+ Pink Nectar
+",Hold items,The flower nectar obtained at the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon.
 392,"
--pink-scarf
-",general-items,raises-holder's-cute-aspect-in-a-contest.
+ Pink Scarf
+",General items,Raises holder's Cute aspect in a Contest.
 393,"
--pinsirite
-",hold-items,enables-pinsir-to-mega-evolve-during-battle.
+ Pinsirite
+",Hold items,Enables Pinsir to Mega Evolve during battle.
 394,"
--pixie-plate
-",hold-items,increases-power-of-fairy-type-moves.-changes-arceus'-type-to-fairy.
+ Pixie Plate
+",Hold items,Increases power of Fairy-type moves. Changes Arceus' type to Fairy.
 395,"
--plasma-card
-",hold-items,a-card-key-needed-to-enter-the-password-inside-the-plasma-frigate.
+ Plasma Card
+",Hold items,A card key needed to enter the password inside the Plasma Frigate.
 396,"
--plume-fossil
-",general-items,a-fossil-of-an-ancient-pokémon-that-flew-in-the-sky-in-ancient-times.-it-appears-to-be-part-of-its-wing.
+ Plume Fossil
+",General items,A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.
 397,"
--poison-barb
-",hold-items,increases-the-power-of-poison-type-moves.
+ Poison Barb
+",Hold items,Increases the power of Poison-type moves.
 398,"
--poison-gem
-",hold-items,increases-the-power-of-a-poison-type-move-only-once.
+ Poison Gem
+",Hold items,Increases the power of a Poison-type move only once.
 399,"
--poison-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-poison-type.
+ Poison Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Poison type.
 400,"
--poisonium-z
-",hold-items,"allows-the-use-of-acid-downpour,-the-poison-type-z-move."
+ Poisonium Z
+",Hold items,"Allows the use of Acid Downpour, the Poison type Z-Move."
 401,"
--poké-ball
-",pokeballs,a-device-for-catching-wild-pokémon.-it-is-thrown-like-a-ball-at-the-target.-it-is-designed-as-a-capsule-system.
+ Poké Ball
+",Pokeballs,A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
 402,"
--poké-doll
-",general-items,a-doll-that-attracts-pokémon.-use-it-to-flee-from-any-battle-with-a-wild-pokémon.
+ Poké Doll
+",General items,A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
 403,"
--poké-toy
-",general-items,an-item-that-attracts-pokémon.-use-it-to-flee-from-any-battle-with-a-wild-pokémon.
+ Poké Toy
+",General items,An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
 404,"
--polished-mud-ball
-",general-items,
+ Polished Mud Ball
+",General items,
 405,"
--pomeg-berry
-",berries,increases-friendship-but-lowers-hp-evs.
+ Pomeg Berry
+",Berries,Increases Friendship but lowers HP EVs.
 406,"
--potion
-",medicine,restores-20-hp.
+ Potion
+",Medicine,Restores 20 HP.
 407,"
--power-anklet
-",hold-items,"a-pokémon-held-item-that-promotes-speed-gain-on-leveling,-but-reduces-the-speed-stat."
+ Power Anklet
+",Hold items,"A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat."
 408,"
--power-band
-",hold-items,"a-pokémon-held-item-that-promotes-sp.-def-gain-on-leveling,-but-reduces-the-speed-stat."
+ Power Band
+",Hold items,"A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat."
 409,"
--power-belt
-",hold-items,"a-pokémon-held-item-that-promotes-defense-gain-on-leveling,-but-reduces-the-speed-stat."
+ Power Belt
+",Hold items,"A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat."
 410,"
--power-bracer
-",hold-items,"a-pokémon-held-item-that-promotes-attack-gain-on-leveling,-but-reduces-the-speed-stat."
+ Power Bracer
+",Hold items,"A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat."
 411,"
--power-herb
-",hold-items,a-single-use-item-to-be-held-by-a-pokémon.-it-allows-the-immediate-use-of-a-move-that-charges-on-the-first-turn.
+ Power Herb
+",Hold items,A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.
 412,"
--power-lens
-",hold-items,"a-pokémon-held-item-that-promotes-sp.-atk-gain-on-leveling,-but-reduces-the-speed-stat."
+ Power Lens
+",Hold items,"A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat."
 413,"
--power-plant-pass
-",hold-items,this-pass-serves-as-an-id-card-for-gaining-access-to-the-power-plant-that-lies-along-route-13.
+ Power Plant Pass
+",Hold items,This pass serves as an ID card for gaining access to the power plant that lies along Route 13.
 414,"
--power-weight
-",hold-items,"a-pokémon-held-item-that-promotes-hp-gain-on-leveling,-but-reduces-the-speed-stat."
+ Power Weight
+",Hold items,"A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat."
 415,"
--pp-max
-",medicine,it-maximally-raises-the-top-pp-of-a-selected-move-that-has-been-learned-by-the-target-pokémon.
+ PP Max
+",Medicine,It maximally raises the top PP of a selected move that has been learned by the target Pokémon.
 416,"
--pp-up
-",medicine,it-slightly-raises-the-maximum-pp-of-a-selected-move-that-has-been-learned-by-the-target-pokémon.
+ PP Up
+",Medicine,It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.
 417,"
--premier-ball
-",pokeballs,a-somewhat-rare-poké-ball-that-has-been-specially-made-to-commemorate-an-event-of-some-sort.
+ Premier Ball
+",Pokeballs,A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
 418,"
--pretty-wing
-",general-items,"though-this-feather-is-beautiful,-it's-just-a-regular-feather-and-has-no-effect-on-pokémon."
+ Pretty Wing
+",General items,"Though this feather is beautiful, it's just a regular feather and has no effect on Pokémon."
 419,"
--primarium-z
-",hold-items,"allows-primarina-to-upgrade-sparkling-aria-to-a-z-move,-oceanic-operetta."
+ Primarium Z
+",Hold items,"Allows Primarina to upgrade Sparkling Aria to a Z-Move, Oceanic Operetta."
 420,"
--prism-scale
-",general-items,evolves-feebas-when-traded-holding-the-item.
+ Prism Scale
+",General items,Evolves Feebas when traded holding the item.
 421,"
--prison-bottle
-",hold-items,transforms-hoopa-confined-to-hoopa-unbound.
+ Prison Bottle
+",Hold items,Transforms Hoopa Confined to Hoopa Unbound.
 422,"
--prof's-letter
-",hold-items,a-letter-that-professor-sycamore-wrote-to-your-mother.-a-faint-but-pleasant-perfume-seems-to-cling-to-the-paper.
+ Prof's Letter
+",Hold items,A letter that Professor Sycamore wrote to your mother. A faint but pleasant perfume seems to cling to the paper.
 423,"
--protective-pads
-",hold-items,an-item-to-be-held-by-a-pokémon.-these-pads-protect-the-holder-from-effects-caused-by-making-direct-contact-with-the-target.
+ Protective Pads
+",Hold items,An item to be held by a Pokémon. These pads protect the holder from effects caused by making direct contact with the target.
 424,"
--protector
-",general-items,evolves-rhydon-when-traded-holding-the-item.
+ Protector
+",General items,Evolves Rhydon when traded holding the item.
 425,"
--protein
-",medicine,increases-attack-evs-by-10.
+ Protein
+",Medicine,Increases Attack EVs by 10.
 426,"
--psychic-gem
-",hold-items,increases-the-power-of-a-psychic-type-move-only-once.
+ Psychic Gem
+",Hold items,Increases the power of a Psychic-type move only once.
 427,"
--psychic-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-psychic-type.
+ Psychic Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Psychic type.
 428,"
--psychic-seed
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-boosts-sp.-def-on-psychic-terrain.-it-can-only-be-used-once.
+ Psychic Seed
+",Hold items,An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.
 429,"
--psychium-z
-",hold-items,"allows-the-use-of-shattered-psyche,-the-psychic-type-z-move."
+ Psychium Z
+",Hold items,"Allows the use of Shattered Psyche, the Psychic type Z-Move."
 430,"
--pungent-root
-",general-items,
+ Pungent Root
+",General items,
 431,"
--pure-incense
-",hold-items,descreases-the-likelihood-of-meeting-wild-pokémon.-breeding-chimecho-produces-chingling-when-held.
+ Pure Incense
+",Hold items,Descreases the likelihood of meeting wild Pokémon. Breeding Chimecho produces Chingling when held.
 432,"
--purple-nectar
-",hold-items,a-flower-nectar-obtained-at-poni-meadow.-it-changes-the-form-of-certain-species-of-pokémon.
+ Purple Nectar
+",Hold items,A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.
 433,"
--qualot-berry
-",berries,increases-friendship-but-lowers-defense-evs.
+ Qualot Berry
+",Berries,Increases Friendship but lowers Defense EVs.
 434,"
--quick-ball
-",pokeballs,a-somewhat-different-poké-ball-that-provides-a-better-catch-rate-if-it-is-used-at-the-start-of-a-wild-encounter.
+ Quick Ball
+",Pokeballs,A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter.
 435,"
--quick-candy
-",medicine,increases-a-pokémon's-speed-stat-by-1.
+ Quick Candy
+",Medicine,Increases a Pokémon's Speed stat by 1.
 436,"
--quick-candy-l
-",medicine,increases-a-pokémon's-speed-stat.
+ Quick Candy L
+",Medicine,Increases a Pokémon's Speed stat.
 437,"
--quick-candy-xl
-",medicine,increases-a-pokémon's-speed-stat.
+ Quick Candy XL
+",Medicine,Increases a Pokémon's Speed stat.
 438,"
--quick-claw
-",hold-items,"an-item-to-be-held-by-a-pokémon.-a-light,-sharp-claw-that-lets-the-bearer-move-first-occasionally."
+ Quick Claw
+",Hold items,"An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally."
 439,"
--quick-powder
-",hold-items,increases-speed-when-held-by-ditto.
+ Quick Powder
+",Hold items,Increases Speed when held by Ditto.
 440,"
--quiet-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-quiet-nature.
+ Quiet Mint
+",Battle items,Changes the Pokémon's stats to match the Quiet nature.
 441,"
--rabuta-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Rabuta Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 442,"
--rage-candy-bar
-",medicine,heals-all-major-status-conditions.
+ Rage Candy Bar
+",Medicine,Heals all major status conditions.
 443,"
--rare-bone
-",general-items,a-bone-that-is-extremely-valuable-for-pokémon-archeology.-it-can-be-sold-for-a-high-price-to-shops.
+ Rare Bone
+",General items,A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops.
 444,"
--rare-candy
-",medicine,a-candy-that-is-packed-with-energy.-it-raises-the-level-of-a-single-pokémon-by-one.
+ Rare Candy
+",Medicine,A candy that is packed with energy. It raises the level of a single Pokémon by one.
 445,"
--rash-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-rash-nature.
+ Rash Mint
+",Battle items,Changes the Pokémon's stats to match the Rash nature.
 446,"
--rawst-berry
-",berries,"if-held-by-a-pokémon,-it-recovers-from-a-burn."
+ Rawst Berry
+",Berries,"If held by a Pokémon, it recovers from a burn."
 447,"
--razor-claw
-",hold-items,increases-critical-hit-ratio.-evolves-sneasel-when-held-at-night.
+ Razor Claw
+",Hold items,Increases critical-hit ratio. Evolves Sneasel when held at night.
 448,"
--razor-fang
-",hold-items,may-cause-opponent-to-flinch.-evolves-gligar-when-held-at-night.
+ Razor Fang
+",Hold items,May cause opponent to flinch. Evolves Gligar when held at night.
 449,"
--razz-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Razz Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 450,"
--reaper-cloth
-",general-items,evolves-dusclops-when-traded-holding-the-item.
+ Reaper Cloth
+",General items,Evolves Dusclops when traded holding the item.
 451,"
--red-apricorn
-",general-items,a-red-apricorn.-it-assails-your-nostrils.
+ Red Apricorn
+",General items,A red Apricorn. It assails your nostrils.
 452,"
--red-card
-",hold-items,"a-card-with-a-mysterious-power.-when-the-holder-is-struck-by-a-foe,-the-attacker-is-removed-from-battle."
+ Red Card
+",Hold items,"A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle."
 453,"
--red-flute
-",general-items,a-toy-flute-made-from-red-glass.-a-maniac-will-buy-it-for-a-high-price.
+ Red Flute
+",General items,A toy flute made from red glass. A maniac will buy it for a high price.
 454,"
--red-nectar
-",hold-items,a-flower-nectar-obtained-at-ula'ula-meadow.-it-changes-the-form-of-certain-species-of-pokémon.
+ Red Nectar
+",Hold items,A flower nectar obtained at Ula'ula Meadow. It changes the form of certain species of Pokémon.
 455,"
--red-scarf
-",general-items,raises-holder's-cool-aspect-in-a-contest.
+ Red Scarf
+",General items,Raises holder's Cool aspect in a Contest.
 456,"
--red-shard
-",general-items,a-small-red-shard.-it-appears-to-be-from-some-sort-of-implement-made-long-ago.
+ Red Shard
+",General items,A small red shard. It appears to be from some sort of implement made long ago.
 457,"
--relaxed-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-relaxed-nature.
+ Relaxed Mint
+",Battle items,Changes the Pokémon's stats to match the Relaxed nature.
 458,"
--relic-band
-",general-items,"a-bracelet-made-in-a-civilization-about-3,000-years-ago.-a-maniac-will-buy-it-for-a-high-price."
+ Relic Band
+",General items,"A bracelet made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
 459,"
--relic-copper
-",general-items,"a-copper-coin-used-in-a-civilization-about-3,000-years-ago.-a-maniac-will-buy-it-for-a-high-price."
+ Relic Copper
+",General items,"A copper coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
 460,"
--relic-crown
-",general-items,"a-crown-made-in-a-civilization-about-3,000-years-ago.-a-maniac-will-buy-it-for-a-high-price."
+ Relic Crown
+",General items,"A crown made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
 461,"
--relic-gold
-",general-items,"a-gold-coin-used-in-a-civilization-about-3,000-years-ago.-a-maniac-will-buy-it-for-a-high-price."
+ Relic Gold
+",General items,"A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
 462,"
--relic-silver
-",general-items,"a-silver-coin-used-in-a-civilization-about-3,000-years-ago.-a-maniac-will-buy-it-for-a-high-price."
+ Relic Silver
+",General items,"A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
 463,"
--relic-statue
-",general-items,"a-stone-figure-made-in-a-civilization-about-3,000-years-ago.-a-maniac-will-buy-it-for-a-high-price."
+ Relic Statue
+",General items,"A stone figure made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
 464,"
--relic-vase
-",general-items,"a-vase-made-in-a-civilization-about-3,000-years-ago.-a-maniac-will-buy-it-for-a-high-price."
+ Relic Vase
+",General items,"A vase made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
 465,"
--repeat-ball
-",pokeballs,a-somewhat-different-poké-ball-that-works-especially-well-on-pokémon-species-that-were-previously-caught.
+ Repeat Ball
+",Pokeballs,A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.
 466,"
--repel
-",general-items,an-item-that-prevents-weak-wild-pokémon-from-appearing-for-100-steps-after-its-use.
+ Repel
+",General items,An item that prevents weak wild Pokémon from appearing for 100 steps after its use.
 467,"
--reset-urge
-",battle-items,"when-used,-it-restores-any-stat-changes-of-an-ally-pokémon."
+ Reset Urge
+",Battle items,"When used, it restores any stat changes of an ally Pokémon."
 468,"
--resist-wing
-",medicine,increases-defense-evs-by-1.
+ Resist Wing
+",Medicine,Increases Defense EVs by 1.
 469,"
--reveal-glass
-",general-items,a-looking-glass-that-reveals-the-truth.-it's-a-mysterious-glass-that-returns-a-pokémon-to-its-original-shape.
+ Reveal Glass
+",General items,A looking glass that reveals the truth. It's a mysterious glass that returns a Pokémon to its original shape.
 470,"
--revival-herb
-",medicine,"revives-a-pokémon-to-max-hp,-but-lowers-friendship."
+ Revival Herb
+",Medicine,"Revives a Pokémon to max HP, but lowers Friendship."
 471,"
--revive
-",medicine,a-medicine-that-revives-a-fainted-pokémon.-it-restores-half-the-pokémon's-maximum-hp.
+ Revive
+",Medicine,A medicine that revives a fainted Pokémon. It restores half the Pokémon's maximum HP.
 472,"
--ribbon-sweet
-",hold-items,evolves-milcery-into-ribbon-flavor-alcremie.
+ Ribbon Sweet
+",Hold items,Evolves Milcery into Ribbon Flavor Alcremie.
 473,"
--rindo-berry
-",berries,weakens-a-supereffective-grass-type-attack-against-the-holding-pokémon.
+ Rindo Berry
+",Berries,Weakens a supereffective Grass-type attack against the holding Pokémon.
 474,"
--ring-target
-",hold-items,moves-that-would-otherwise-have-no-effect-will-land-on-the-pokémon-that-holds-it.
+ Ring Target
+",Hold items,Moves that would otherwise have no effect will land on the Pokémon that holds it.
 475,"
--rock-gem
-",hold-items,increases-the-power-of-a-rock-type-move-only-once.
+ Rock Gem
+",Hold items,Increases the power of a Rock-type move only once.
 476,"
--rock-incense
-",hold-items,increases-the-power-of-rock-type-moves.-breeding-sudowoodo-produces-bonsly-when-held.
+ Rock Incense
+",Hold items,Increases the power of Rock-type moves. Breeding Sudowoodo produces Bonsly when held.
 477,"
--rock-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-rock-type.
+ Rock Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Rock type.
 478,"
--rockium-z
-",hold-items,"allows-the-use-of-continental-crush,-the-rock-type-z-move."
+ Rockium Z
+",Hold items,"Allows the use of Continental Crush, the Rock type Z-Move."
 479,"
--rocky-helmet
-",hold-items,"if-the-holder-of-this-item-takes-damage,-the-attacker-will-also-be-damaged-upon-contact."
+ Rocky Helmet
+",Hold items,"If the holder of this item takes damage, the attacker will also be damaged upon contact."
 480,"
--roller-skates
-",general-items,"attaches-roller-skates-to-the-bottom-of-your-shoes,-allowing-you-to-glide-quickly-around-and-perform-tricks."
+ Roller Skates
+",General items,"Attaches roller skates to the bottom of your shoes, allowing you to glide quickly around and perform tricks."
 481,"
--room-service
-",hold-items,lowers-the-pokémon's-speed-during-trick-room.
+ Room Service
+",Hold items,Lowers the Pokémon's speed during Trick Room.
 482,"
--root-fossil
-",general-items,a-fossil-of-an-ancient-pokémon-that-lived-in-the-sea.-it-appears-to-be-part-of-a-plant-root.
+ Root Fossil
+",General items,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root.
 483,"
--rose-incense
-",hold-items,increases-the-power-of-grass-type-moves.-breeding-roselia-or-roserade-produces-budew-when-held.
+ Rose Incense
+",Hold items,Increases the power of Grass-type moves. Breeding Roselia or Roserade produces Budew when held.
 484,"
--roseli-berry
-",berries,"if-held-by-a-pokémon,-this-berry-will-lessen-the-damage-taken-from-one-supereffective-fairy-type-attack."
+ Roseli Berry
+",Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack."
 485,"
--roto-bargain
-",battle-items,reduces-the-prices-of-products-at-poké-marts-by-half.
+ Roto Bargain
+",Battle items,Reduces the prices of products at Poké Marts by half.
 486,"
--roto-boost
-",battle-items,raises-all-stats-of-your-battling-pokémon.
+ Roto Boost
+",Battle items,Raises all stats of your battling Pokémon.
 487,"
--roto-catch
-",battle-items,increases-the-chance-to-catch-pokémon-a-lot.
+ Roto Catch
+",Battle items,Increases the chance to catch Pokémon a lot.
 488,"
--roto-encounter
-",battle-items,increases-the-chance-of-encountering-high-level-wild-pokémon-a-lot-for-a-certain-period-of-time.
+ Roto Encounter
+",Battle items,Increases the chance of encountering high-level wild Pokémon a lot for a certain period of time.
 489,"
--roto-exp.-points
-",battle-items,increases-the-exp.-points-your-pokémon-receive-after-battle-a-little.
+ Roto Exp. Points
+",Battle items,Increases the Exp. Points your Pokémon receive after battle a little.
 490,"
--roto-friendship
-",battle-items,helps-pokémon-in-your-party-grow-friendly-faster.
+ Roto Friendship
+",Battle items,Helps Pokémon in your party grow friendly faster.
 491,"
--roto-hatch
-",battle-items,helps-eggs-hatch-faster.
+ Roto Hatch
+",Battle items,Helps Eggs hatch faster.
 492,"
--roto-hp-restore
-",battle-items,fully-restores-the-hp-of-your-battling-pokémon.
+ Roto HP Restore
+",Battle items,Fully restores the HP of your battling Pokémon.
 493,"
--roto-pp-restore
-",battle-items,fully-restores-the-pp-of-your-battling-pokémon.
+ Roto PP Restore
+",Battle items,Fully restores the PP of your battling Pokémon.
 494,"
--roto-prize-money
-",battle-items,triples-the-prize-money-you-receive-after-battle.
+ Roto Prize Money
+",Battle items,Triples the prize money you receive after battle.
 495,"
--roto-stealth
-",battle-items,prevents-you-from-encountering-wild-pokémon-for-a-certain-period-of-time.
+ Roto Stealth
+",Battle items,Prevents you from encountering wild Pokémon for a certain period of time.
 496,"
--rowap-berry
-",berries,"if-held-by-a-pokémon-and-a-special-attack-lands,-the-attacker-also-takes-damage."
+ Rowap Berry
+",Berries,"If held by a Pokémon and a special attack lands, the attacker also takes damage."
 497,"
--sablenite
-",hold-items,enables-sableye-to-mega-evolve-during-battle.
+ Sablenite
+",Hold items,Enables Sableye to Mega Evolve during battle.
 498,"
--sachet
-",general-items,evolves-spritzee-when-traded-holding-the-item.
+ Sachet
+",General items,Evolves Spritzee when traded holding the item.
 499,"
--sacred-ash
-",medicine,"it-revives-all-fainted-pokémon.-in-doing-so,-it-also-fully-restores-their-hp."
+ Sacred Ash
+",Medicine,"It revives all fainted Pokémon. In doing so, it also fully restores their HP."
 500,"
--safari-ball
-",pokeballs,a-special-poké-ball-that-is-used-only-in-the-great-marsh.-it-is-decorated-in-a-camouflage-pattern.
+ Safari Ball
+",Pokeballs,A special Poké Ball that is used only in the Great Marsh. It is decorated in a camouflage pattern.
 501,"
--safety-goggles
-",hold-items,prevents-damage-from-weather-and-powder.
+ Safety Goggles
+",Hold items,Prevents damage from weather and powder.
 502,"
--salac-berry
-",berries,raises-speed-when-hp-is-low.
+ Salac Berry
+",Berries,Raises Speed when HP is low.
 503,"
--salamencite
-",hold-items,enables-salamence-to-mega-evolve-during-battle.
+ Salamencite
+",Hold items,Enables Salamence to Mega Evolve during battle.
 504,"
--sassy-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-sassy-nature.
+ Sassy Mint
+",Battle items,Changes the Pokémon's stats to match the Sassy nature.
 505,"
--sceptilite
-",hold-items,enables-sceptile-to-mega-evolve-during-battle.
+ Sceptilite
+",Hold items,Enables Sceptile to Mega Evolve during battle.
 506,"
--scizorite
-",hold-items,enables-scizor-to-mega-evolve-during-battle.
+ Scizorite
+",Hold items,Enables Scizor to Mega Evolve during battle.
 507,"
--scope-lens
-",hold-items,increases-critical-hit-ratio.
+ Scope Lens
+",Hold items,Increases critical-hit ratio.
 508,"
--sea-incense
-",hold-items,increases-the-power-of-water-type-moves.-breeding-marill-or-azumarill-produces-azurill-when-held.
+ Sea Incense
+",Hold items,Increases the power of Water-type moves. Breeding Marill or Azumarill produces Azurill when held.
 509,"
--serious-mint
-",battle-items,changes-the-pokémon's-stats-to-match-a-neutral-nature.
+ Serious Mint
+",Battle items,Changes the Pokémon's stats to match a neutral nature.
 510,"
--shalour-sable
-",medicine,heals-all-major-status-conditions.
+ Shalour Sable
+",Medicine,Heals all major status conditions.
 511,"
--sharp-beak
-",hold-items,increases-the-power-of-flying-type-moves.
+ Sharp Beak
+",Hold items,Increases the power of Flying-type moves.
 512,"
--sharpedonite
-",hold-items,enables-sharpedo-to-mega-evolve-during-battle.
+ Sharpedonite
+",Hold items,Enables Sharpedo to Mega Evolve during battle.
 513,"
--shed-shell
-",hold-items,"a-tough,-discarded-carapace-to-be-held-by-a-pokémon.-it-enables-the-holder-to-switch-with-a-waiting-pokémon-in-battle."
+ Shed Shell
+",Hold items,"A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle."
 514,"
--shell-bell
-",hold-items,an-item-to-be-held-by-a-pokémon.-the-holder's-hp-is-restored-a-little-every-time-it-inflicts-damage.
+ Shell Bell
+",Hold items,An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
 515,"
--shiny-charm
-",general-items,a-shiny-charm-said-to-increase-the-chance-of-finding-a-shiny-pokémon-in-the-wild.
+ Shiny Charm
+",General items,A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild.
 516,"
--shiny-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Shiny Stone
+",General items,Evolves certain species of Pokémon.
 517,"
--shoal-salt
-",general-items,pure-salt-that-can-be-discovered-deep-inside-the-shoal-cave.-a-maniac-will-buy-it-for-a-high-price.
+ Shoal Salt
+",General items,Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price.
 518,"
--shoal-shell
-",general-items,a-pretty-seashell-that-can-be-found-deep-inside-the-shoal-cave.-a-maniac-will-buy-it-for-a-high-price.
+ Shoal Shell
+",General items,A pretty seashell that can be found deep inside the Shoal Cave. A maniac will buy it for a high price.
 519,"
--shock-drive
-",hold-items,changes-techno-blast-to-an-electric-type-move-when-held-by-genesect.
+ Shock Drive
+",Hold items,Changes Techno Blast to an Electric-type move when held by Genesect.
 520,"
--shuca-berry
-",berries,weakens-a-supereffective-ground-type-attack-against-the-holding-pokémon.
+ Shuca Berry
+",Berries,Weakens a supereffective Ground-type attack against the holding Pokémon.
 521,"
--silk-scarf
-",hold-items,increases-the-power-of-normal-type-moves.
+ Silk Scarf
+",Hold items,Increases the power of Normal-type moves.
 522,"
--silver-leaf
-",general-items,
+ Silver Leaf
+",General items,
 523,"
--silver-nanab-berry
-",berries,"greatly-calms-a-pokémon-in-battle,-in-let's-go-pikachu/eevee."
+ Silver Nanab Berry
+",Berries,"Greatly calms a Pokémon in battle, in Let's Go Pikachu/Eevee."
 524,"
--silver-pinap-berry
-",berries,"greatly-increases-chance-of-getting-items-when-a-pokémon-is-caught,-in-pokémon-let's-go."
+ Silver Pinap Berry
+",Berries,"Greatly increases chance of getting items when a Pokémon is caught, in Pokémon Let's Go."
 525,"
--silver-powder
-",hold-items,increases-the-power-of-bug-type-moves.
+ Silver Powder
+",Hold items,Increases the power of Bug-type moves.
 526,"
--silver-razz-berry
-",berries,makes-a-pokémon-easier-to-catch-in-pokémon-let's-go.
+ Silver Razz Berry
+",Berries,Makes a Pokémon easier to catch in Pokémon Let's Go.
 527,"
--sitrus-berry
-",berries,"if-held-by-a-pokémon,-it-heals-the-user's-hp-a-little."
+ Sitrus Berry
+",Berries,"If held by a Pokémon, it heals the user's HP a little."
 528,"
--skull-fossil
-",general-items,a-fossil-from-a-prehistoric-pokémon-that-lived-on-the-land.-it-appears-to-be-part-of-a-head.
+ Skull Fossil
+",General items,A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.
 529,"
--sky-plate
-",hold-items,increases-power-of-flying-type-moves.-changes-arceus'-type-to-flying.
+ Sky Plate
+",Hold items,Increases power of Flying-type moves. Changes Arceus' type to Flying.
 530,"
--slowbronite
-",hold-items,enables-slowbro-to-mega-evolve-during-battle.
+ Slowbronite
+",Hold items,Enables Slowbro to Mega Evolve during battle.
 531,"
--small-bouquet
-",general-items,
+ Small Bouquet
+",General items,
 532,"
--smart-candy
-",medicine,increases-a-pokémon's-special-attack-stat-by-1.
+ Smart Candy
+",Medicine,Increases a Pokémon's Special Attack stat by 1.
 533,"
--smart-candy-l
-",medicine,increases-a-pokémon's-special-attack-stat.
+ Smart Candy L
+",Medicine,Increases a Pokémon's Special Attack stat.
 534,"
--smart-candy-xl
-",medicine,increases-a-pokémon's-special-attack-stat.
+ Smart Candy XL
+",Medicine,Increases a Pokémon's Special Attack stat.
 535,"
--smoke-ball
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-enables-the-holder-to-flee-from-any-wild-pokémon-without-fail.
+ Smoke Ball
+",Hold items,An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.
 536,"
--smooth-rock
-",hold-items,a-pokémon-held-item-that-extends-the-duration-of-the-move-sandstorm-used-by-the-holder.
+ Smooth Rock
+",Hold items,A Pokémon held item that extends the duration of the move Sandstorm used by the holder.
 537,"
--snorlium-z
-",hold-items,"allows-snorlax-to-upgrade-giga-impact-to-a-z-move,-pulverizing-pancake."
+ Snorlium Z
+",Hold items,"Allows Snorlax to upgrade Giga Impact to a Z-Move, Pulverizing Pancake."
 538,"
--snowball
-",hold-items,raises-attack-if-hit-by-an-ice-type-move.
+ Snowball
+",Hold items,Raises Attack if hit by an Ice-type move.
 539,"
--soda-pop
-",medicine,restores-50-hp.
+ Soda Pop
+",Medicine,Restores 50 HP.
 540,"
--soft-sand
-",hold-items,increases-the-power-of-ground-type-moves.
+ Soft Sand
+",Hold items,Increases the power of Ground-type moves.
 541,"
--solganium-z
-",hold-items,"allows-solgaleo-to-upgrade-sunsteel-strike-to-a-z-move,-searing-sunraze-smash."
+ Solganium Z
+",Hold items,"Allows Solgaleo to upgrade Sunsteel Strike to a Z-Move, Searing Sunraze Smash."
 542,"
--soothe-bell
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-is-a-bell-with-a-comforting-chime-that-calms-the-holder-and-makes-it-friendly.
+ Soothe Bell
+",Hold items,An item to be held by a Pokémon. It is a bell with a comforting chime that calms the holder and makes it friendly.
 543,"
--soul-dew
-",hold-items,increases-the-power-of-psychic--and-dragon-type-moves-when-held-by-latios-or-latias.-increases-sp.atk/sp.def-prior-to-gen-7.
+ Soul Dew
+",Hold items,Increases the power of Psychic- and Dragon-type moves when held by Latios or Latias. Increases Sp.Atk/Sp.Def prior to Gen 7.
 544,"
--spell-tag
-",hold-items,increases-the-power-of-ghost-type-moves.
+ Spell Tag
+",Hold items,Increases the power of Ghost-type moves.
 545,"
--spelon-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Spelon Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 546,"
--splash-plate
-",hold-items,increases-power-of-water-type-moves.-changes-arceus'-type-to-water.
+ Splash Plate
+",Hold items,Increases power of Water-type moves. Changes Arceus' type to Water.
 547,"
--spooky-plate
-",hold-items,increases-power-of-ghost-type-moves.-changes-arceus'-type-to-ghost.
+ Spooky Plate
+",Hold items,Increases power of Ghost-type moves. Changes Arceus' type to Ghost.
 548,"
--sport-ball
-",pokeballs,a-special-poké-ball-for-the-bug-catching-contest.
+ Sport Ball
+",Pokeballs,A special Poké Ball for the Bug-Catching Contest.
 549,"
--sprinklotad
-",general-items,"a-watering-can-shaped-like-a-lotad.-it-helps-promote-the-healthy-growth-of-any-berries-planted-in-good,-soft-soil."
+ Sprinklotad
+",General items,"A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in good, soft soil."
 550,"
--stable-mulch
-",general-items,a-fertilizer-to-be-spread-on-soft-soil-in-regions-where-berries-are-grown.-a-maniac-will-buy-it-for-a-high-price.
+ Stable Mulch
+",General items,A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
 551,"
--star-piece
-",general-items,a-shard-of-a-pretty-gem-that-sparkles-in-a-red-color.-it-can-be-sold-at-a-high-price-to-shops.
+ Star Piece
+",General items,A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
 552,"
--star-sweet
-",hold-items,evolves-milcery-into-star-flavor-alcremie.
+ Star Sweet
+",Hold items,Evolves Milcery into Star Flavor Alcremie.
 553,"
--stardust
-",general-items,"lovely,-red-colored-sand-with-a-loose,-silky-feel.-it-can-be-sold-at-a-high-price-to-shops."
+ Stardust
+",General items,"Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops."
 554,"
--starf-berry
-",berries,sharply-raises-a-random-stat-when-hp-is-low.
+ Starf Berry
+",Berries,Sharply raises a random stat when HP is low.
 555,"
--steel-gem
-",hold-items,increases-the-power-of-a-steel-type-move-only-once.
+ Steel Gem
+",Hold items,Increases the power of a Steel-type move only once.
 556,"
--steel-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-steel-type.
+ Steel Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Steel type.
 557,"
--steelium-z
-",hold-items,"allows-the-use-of-corkscrew-crash,-the-steel-type-z-move."
+ Steelium Z
+",Hold items,"Allows the use of Corkscrew Crash, the Steel type Z-Move."
 558,"
--steelixite
-",hold-items,enables-steelix-to-mega-evolve-during-battle.
+ Steelixite
+",Hold items,Enables Steelix to Mega Evolve during battle.
 559,"
--stick
-",hold-items,increases-critical-hit-ratio-when-held-by-farfetch'd.
+ Stick
+",Hold items,Increases critical-hit ratio when held by Farfetch'd.
 560,"
--sticky-barb
-",hold-items,a-held-item-that-damages-the-holder-on-every-turn.-it-may-latch-on-to-foes-and-allies-that-touch-the-holder.
+ Sticky Barb
+",Hold items,A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder.
 561,"
--stone-plate
-",hold-items,increases-power-of-rock-type-moves.-changes-arceus'-type-to-rock.
+ Stone Plate
+",Hold items,Increases power of Rock-type moves. Changes Arceus' type to Rock.
 562,"
--strange-souvenir
-",general-items,an-ornament-depicting-a-pokémon-that-is-venerated-as-a-protector-in-some-region-far-from-kalos.
+ Strange Souvenir
+",General items,An ornament depicting a Pokémon that is venerated as a protector in some region far from Kalos.
 563,"
--strawberry-sweet
-",hold-items,evolves-milcery-into-strawberry-flavor-alcremie.
+ Strawberry Sweet
+",Hold items,Evolves Milcery into Strawberry Flavor Alcremie.
 564,"
--stretchy-spring
-",general-items,
+ Stretchy Spring
+",General items,
 565,"
--sun-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Sun Stone
+",General items,Evolves certain species of Pokémon.
 566,"
--super-lure
-",general-items,attracts-pokémon-in-the-wild.
+ Super Lure
+",General items,Attracts Pokémon in the wild.
 567,"
--super-potion
-",medicine,restores-60-hp.
+ Super Potion
+",Medicine,Restores 60 HP.
 568,"
--super-repel
-",general-items,an-item-that-prevents-weak-wild-pokémon-from-appearing-for-200-steps-after-its-use.
+ Super Repel
+",General items,An item that prevents weak wild Pokémon from appearing for 200 steps after its use.
 569,"
--swampertite
-",hold-items,enables-swampert-to-mega-evolve-during-battle.
+ Swampertite
+",Hold items,Enables Swampert to Mega Evolve during battle.
 570,"
--sweet-apple
-",hold-items,evolves-applin-into-appletun.
+ Sweet Apple
+",Hold items,Evolves Applin into Appletun.
 571,"
--sweet-heart
-",medicine,very-sweet-chocolate.-it-restores-the-hp-of-one-pokémon-by-only-20-points.
+ Sweet Heart
+",Medicine,Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.
 572,"
--swift-wing
-",medicine,increases-speed-evs-by-1.
+ Swift Wing
+",Medicine,Increases Speed EVs by 1.
 573,"
--tamato-berry
-",berries,increases-friendship-but-lowers-speed-evs.
+ Tamato Berry
+",Berries,Increases Friendship but lowers Speed EVs.
 574,"
--tanga-berry
-",berries,weakens-a-supereffective-bug-type-attack-against-the-holding-pokémon.
+ Tanga Berry
+",Berries,Weakens a supereffective Bug-type attack against the holding Pokémon.
 575,"
--tapunium-z
-",hold-items,"allows-the-tapus-to-upgrade-nature's-madness-to-a-z-move,-guardian-of-alola."
+ Tapunium Z
+",Hold items,"Allows the Tapus to upgrade Nature's Madness to a Z-Move, Guardian of Alola."
 576,"
--tart-apple
-",hold-items,evolves-applin-into-flapple.
+ Tart Apple
+",Hold items,Evolves Applin into Flapple.
 577,"
--terrain-extender
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-extends-the-duration-of-the-terrain-caused-by-the-holder's-move-or-ability.
+ Terrain Extender
+",Hold items,An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder's move or Ability.
 578,"
--thick-club
-",hold-items,increases-attack-when-held-by-cubone-or-marowak.
+ Thick Club
+",Hold items,Increases Attack when held by Cubone or Marowak.
 579,"
--throat-spray
-",hold-items,raises-sp.-atk-when-a-sound-based-move-is-used.
+ Throat Spray
+",Hold items,Raises Sp. Atk when a sound-based move is used.
 580,"
--thunder-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Thunder Stone
+",General items,Evolves certain species of Pokémon.
 581,"
--timer-ball
-",pokeballs,a-somewhat-different-ball-that-becomes-progressively-better-the-more-turns-there-are-in-a-battle.
+ Timer Ball
+",Pokeballs,A somewhat different BALL that becomes progressively better the more turns there are in a battle.
 582,"
--timid-mint
-",battle-items,changes-the-pokémon's-stats-to-match-the-timid-nature.
+ Timid Mint
+",Battle items,Changes the Pokémon's stats to match the Timid nature.
 583,"
--tiny-mushroom
-",general-items,a-small-and-rare-mushroom.-it-is-sought-after-by-collectors.
+ Tiny Mushroom
+",General items,A small and rare mushroom. It is sought after by collectors.
 584,"
--tm00
-",machines,teaches-a-move.
+ TM00
+",Machines,Teaches a move.
 585,"
--tm01
-",machines,teaches-the-move-mega-punch/dynamic-punch/focus-punch/hone-claws/work-up/headbutt.
+ TM01
+",Machines,Teaches the move Mega Punch/Dynamic Punch/Focus Punch/Hone Claws/Work Up/Headbutt.
 586,"
--tm02
-",machines,teaches-the-move-razor-wind/headbutt/dragon-claw/taunt.
+ TM02
+",Machines,Teaches the move Razor Wind/Headbutt/Dragon Claw/Taunt.
 587,"
--tm03
-",machines,teaches-the-move-swords-dance/curse/water-pulse/psyshock/helping-hand.
+ TM03
+",Machines,Teaches the move Swords Dance/Curse/Water Pulse/Psyshock/Helping Hand.
 588,"
--tm04
-",machines,teaches-the-move-whirlwind/rollout/calm-mind/teleport.
+ TM04
+",Machines,Teaches the move Whirlwind/Rollout/Calm Mind/Teleport.
 589,"
--tm05
-",machines,teaches-the-move-mega-kick/roar/rest.
+ TM05
+",Machines,Teaches the move Mega Kick/Roar/Rest.
 590,"
--tm06
-",machines,teaches-the-move-toxic/light-screen.
+ TM06
+",Machines,Teaches the move Toxic/Light Screen.
 591,"
--tm07
-",machines,teaches-the-move-horn-drill/zap-cannon/hail/protect.
+ TM07
+",Machines,Teaches the move Horn Drill/Zap Cannon/Hail/Protect.
 592,"
--tm08
-",machines,teaches-the-move-body-slam/rock-smash/bulk-up/substitute.
+ TM08
+",Machines,Teaches the move Body Slam/Rock Smash/Bulk Up/Substitute.
 593,"
--tm09
-",machines,teaches-the-move-take-down/psych-up/bullet-seed/venoshock/reflect.
+ TM09
+",Machines,Teaches the move Take Down/Psych Up/Bullet Seed/Venoshock/Reflect.
 594,"
--tm10
-",machines,teaches-the-move-double-edge/hidden-power/dig.
+ TM10
+",Machines,Teaches the move Double-Edge/Hidden Power/Dig.
 595,"
--tm100
-",machines,teaches-the-move-confide.
+ TM100
+",Machines,Teaches the move Confide.
 596,"
--tm11
-",machines,teaches-the-move-bubblebeam/sunny-day/will-o-wisp.
+ TM11
+",Machines,Teaches the move BubbleBeam/Sunny Day/Will-O-Wisp.
 597,"
--tm12
-",machines,teaches-the-move-water-gun/sweet-scent/taunt/facade.
+ TM12
+",Machines,Teaches the move Water Gun/Sweet Scent/Taunt/Facade.
 598,"
--tm13
-",machines,teaches-the-move-snore/ice-beam/brick-break.
+ TM13
+",Machines,Teaches the move Snore/Ice Beam/Brick Break.
 599,"
--tm14
-",machines,teaches-the-move-blizzard/fly.
+ TM14
+",Machines,Teaches the move Blizzard/Fly.
 600,"
--tm15
-",machines,teaches-the-move-hyper-beam/seismic-toss.
+ TM15
+",Machines,Teaches the move Hyper Beam/Seismic Toss.
 601,"
--tm16
-",machines,teaches-the-move-pay-day/icy-wind/light-screen/thunder-wave.
+ TM16
+",Machines,Teaches the move Pay Day/Icy Wind/Light Screen/Thunder Wave.
 602,"
--tm17
-",machines,teaches-the-move-submission/protect/dragon-tail.
+ TM17
+",Machines,Teaches the move Submission/Protect/Dragon Tail.
 603,"
--tm18
-",machines,teaches-the-move-counter/rain-dance/u-turn.
+ TM18
+",Machines,Teaches the move Counter/Rain Dance/U-turn.
 604,"
--tm19
-",machines,teaches-the-move-seismic-toss/giga-drain/telekinesis/roost/iron-tail.
+ TM19
+",Machines,Teaches the move Seismic Toss/Giga Drain/Telekinesis/Roost/Iron Tail.
 605,"
--tm20
-",machines,teaches-the-move-rage/endure/safeguard/dark-pulse.
+ TM20
+",Machines,Teaches the move Rage/Endure/Safeguard/Dark Pulse.
 606,"
--tm21
-",machines,teaches-the-move-mega-drain/frustration/foul-play.
+ TM21
+",Machines,Teaches the move Mega Drain/Frustration/Foul Play.
 607,"
--tm22
-",machines,teaches-the-move-solarbeam/rock-slide.
+ TM22
+",Machines,Teaches the move SolarBeam/Rock Slide.
 608,"
--tm23
-",machines,teaches-the-move-dragon-rage/iron-tail/smack-down/thunder-punch.
+ TM23
+",Machines,Teaches the move Dragon Rage/Iron Tail/Smack Down/Thunder Punch.
 609,"
--tm24
-",machines,teaches-the-move-thunderbolt/dragonbreath/x-scissor.
+ TM24
+",Machines,Teaches the move Thunderbolt/DragonBreath/X-Scissor.
 610,"
--tm25
-",machines,teaches-the-move-thunder/waterfall.
+ TM25
+",Machines,Teaches the move Thunder/Waterfall.
 611,"
--tm26
-",machines,teaches-the-move-earthquake/poison-jab.
+ TM26
+",Machines,Teaches the move Earthquake/Poison Jab.
 612,"
--tm27
-",machines,teaches-the-move-fissure/return/toxic.
+ TM27
+",Machines,Teaches the move Fissure/Return/Toxic.
 613,"
--tm28
-",machines,teaches-the-move-dig/leech-life/tri-attack.
+ TM28
+",Machines,Teaches the move Dig/Leech Life/Tri Attack.
 614,"
--tm29
-",machines,teaches-the-move-psychic/scald.
+ TM29
+",Machines,Teaches the move Psychic/Scald.
 615,"
--tm30
-",machines,teaches-the-move-teleport/shadow-ball/bulk-up.
+ TM30
+",Machines,Teaches the move Teleport/Shadow Ball/Bulk Up.
 616,"
--tm31
-",machines,teaches-the-move-mimic/mud-slap/brick-break/fire-punch.
+ TM31
+",Machines,Teaches the move Mimic/Mud-Slap/Brick Break/Fire Punch.
 617,"
--tm32
-",machines,teaches-the-move-double-team/dazzling-gleam.
+ TM32
+",Machines,Teaches the move Double Team/Dazzling Gleam.
 618,"
--tm33
-",machines,teaches-the-move-ice-punch/reflect/calm-mind.
+ TM33
+",Machines,Teaches the move Ice Punch/Reflect/Calm Mind.
 619,"
--tm34
-",machines,teaches-the-move-bide/swagger/shock-wave/sludge-wave/dragon-pulse.
+ TM34
+",Machines,Teaches the move Bide/Swagger/Shock Wave/Sludge Wave/Dragon Pulse.
 620,"
--tm35
-",machines,teaches-the-move-metronome/sleep-talk/flamethrower/ice-punch.
+ TM35
+",Machines,Teaches the move Metronome/Sleep Talk/Flamethrower/Ice Punch.
 621,"
--tm36
-",machines,teaches-the-move-selfdestruct/sludge-bomb/thunderbolt.
+ TM36
+",Machines,Teaches the move Selfdestruct/Sludge Bomb/Thunderbolt.
 622,"
--tm37
-",machines,teaches-the-move-egg-bomb/sandstorm/flamethrower.
+ TM37
+",Machines,Teaches the move Egg Bomb/Sandstorm/Flamethrower.
 623,"
--tm38
-",machines,teaches-the-move-fire-blast/thunder.
+ TM38
+",Machines,Teaches the move Fire Blast/Thunder.
 624,"
--tm39
-",machines,teaches-the-move-swift/rock-tomb/outrage.
+ TM39
+",Machines,Teaches the move Swift/Rock Tomb/Outrage.
 625,"
--tm40
-",machines,teaches-the-move-skull-bash/defense-curl/aerial-ace/psychic.
+ TM40
+",Machines,Teaches the move Skull Bash/Defense Curl/Aerial Ace/Psychic.
 626,"
--tm41
-",machines,teaches-the-move-softboiled/thunderpunch/torment/earthquake.
+ TM41
+",Machines,Teaches the move Softboiled/ThunderPunch/Torment/Earthquake.
 627,"
--tm42
-",machines,teaches-the-move-dream-eater/facade/self-destruct.
+ TM42
+",Machines,Teaches the move Dream Eater/Facade/Self-Destruct.
 628,"
--tm43
-",machines,teaches-the-move-sky-attack/detect/secret-power/flame-charge/shadow-ball.
+ TM43
+",Machines,Teaches the move Sky Attack/Detect/Secret Power/Flame Charge/Shadow Ball.
 629,"
--tm44
-",machines,teaches-the-move-rest/play-rough.
+ TM44
+",Machines,Teaches the move Rest/Play Rough.
 630,"
--tm45
-",machines,teaches-the-move-thunder-wave/attract/solar-beam.
+ TM45
+",Machines,Teaches the move Thunder Wave/Attract/Solar Beam.
 631,"
--tm46
-",machines,teaches-the-move-psywave/thief/fire-blast.
+ TM46
+",Machines,Teaches the move Psywave/Thief/Fire Blast.
 632,"
--tm47
-",machines,teaches-the-move-explosion/steel-wing/low-sweep/surf.
+ TM47
+",Machines,Teaches the move Explosion/Steel Wing/Low Sweep/Surf.
 633,"
--tm48
-",machines,teaches-the-move-rock-slide/fire-punch/skill-swap/round/hyper-beam.
+ TM48
+",Machines,Teaches the move Rock Slide/Fire Punch/Skill Swap/Round/Hyper Beam.
 634,"
--tm49
-",machines,teaches-the-move-tri-attack/fury-cutter/snatch/echoed-voice/superpower.
+ TM49
+",Machines,Teaches the move Tri Attack/Fury Cutter/Snatch/Echoed Voice/Superpower.
 635,"
--tm50
-",machines,teaches-the-move-substitute/nightmare/overheat/roost.
+ TM50
+",Machines,Teaches the move Substitute/Nightmare/Overheat/Roost.
 636,"
--tm51
-",machines,teaches-the-move-roost/ally-switch/steel-wing/blizzard.
+ TM51
+",Machines,Teaches the move Roost/Ally Switch/Steel Wing/Blizzard.
 637,"
--tm52
-",machines,teaches-the-move-focus-blast/sludge-bomb.
+ TM52
+",Machines,Teaches the move Focus Blast/Sludge Bomb.
 638,"
--tm53
-",machines,teaches-the-move-energy-ball/mega-drain.
+ TM53
+",Machines,Teaches the move Energy Ball/Mega Drain.
 639,"
--tm54
-",machines,teaches-the-move-false-swipe/flash-cannon.
+ TM54
+",Machines,Teaches the move False Swipe/Flash Cannon.
 640,"
--tm55
-",machines,teaches-the-move-brine/scald/ice-beam.
+ TM55
+",Machines,Teaches the move Brine/Scald/Ice Beam.
 641,"
--tm56
-",machines,teaches-the-move-fling/stealth-rock.
+ TM56
+",Machines,Teaches the move Fling/Stealth Rock.
 642,"
--tm57
-",machines,teaches-the-move-charge-beam/pay-day.
+ TM57
+",Machines,Teaches the move Charge Beam/Pay Day.
 643,"
--tm58
-",machines,teaches-the-move-endure/sky-drop/drill-run.
+ TM58
+",Machines,Teaches the move Endure/Sky Drop/Drill Run.
 644,"
--tm59
-",machines,teaches-the-move-dragon-pulse/incinerate/brutal-swing/dream-eater.
+ TM59
+",Machines,Teaches the move Dragon Pulse/Incinerate/Brutal Swing/Dream Eater.
 645,"
--tm60
-",machines,teaches-the-move-drain-punch/quash/megahorn.
+ TM60
+",Machines,Teaches the move Drain Punch/Quash/Megahorn.
 646,"
--tm61
-",machines,teaches-the-move-will-o-wisp.
+ TM61
+",Machines,Teaches the move Will-O-Wisp.
 647,"
--tm62
-",machines,teaches-the-move-silver-wind/acrobatics.
+ TM62
+",Machines,Teaches the move Silver Wind/Acrobatics.
 648,"
--tm63
-",machines,teaches-the-move-embargo.
+ TM63
+",Machines,Teaches the move Embargo.
 649,"
--tm64
-",machines,teaches-the-move-explosion.
+ TM64
+",Machines,Teaches the move Explosion.
 650,"
--tm65
-",machines,teaches-the-move-shadow-claw.
+ TM65
+",Machines,Teaches the move Shadow Claw.
 651,"
--tm66
-",machines,teaches-the-move-payback.
+ TM66
+",Machines,Teaches the move Payback.
 652,"
--tm67
-",machines,teaches-the-move-recycle/retaliate/smart-strike.
+ TM67
+",Machines,Teaches the move Recycle/Retaliate/Smart Strike.
 653,"
--tm68
-",machines,teaches-the-move-giga-impact.
+ TM68
+",Machines,Teaches the move Giga Impact.
 654,"
--tm69
-",machines,teaches-the-move-rock-polish.
+ TM69
+",Machines,Teaches the move Rock Polish.
 655,"
--tm70
-",machines,teaches-the-move-flash/aurora-veil.
+ TM70
+",Machines,Teaches the move Flash/Aurora Veil.
 656,"
--tm71
-",machines,teaches-the-move-stone-edge.
+ TM71
+",Machines,Teaches the move Stone Edge.
 657,"
--tm72
-",machines,teaches-the-move-avalanche/volt-switch.
+ TM72
+",Machines,Teaches the move Avalanche/Volt Switch.
 658,"
--tm73
-",machines,teaches-the-move-thunder-wave.
+ TM73
+",Machines,Teaches the move Thunder Wave.
 659,"
--tm74
-",machines,teaches-the-move-gyro-ball.
+ TM74
+",Machines,Teaches the move Gyro Ball.
 660,"
--tm75
-",machines,teaches-the-move-swords-dance.
+ TM75
+",Machines,Teaches the move Swords Dance.
 661,"
--tm76
-",machines,teaches-the-move-stealth-rock/struggle-bug/fly.
+ TM76
+",Machines,Teaches the move Stealth Rock/Struggle Bug/Fly.
 662,"
--tm77
-",machines,teaches-the-move-psych-up.
+ TM77
+",Machines,Teaches the move Psych Up.
 663,"
--tm78
-",machines,teaches-the-move-captivate/bulldoze.
+ TM78
+",Machines,Teaches the move Captivate/Bulldoze.
 664,"
--tm79
-",machines,teaches-the-move-dark-pulse/frost-breath.
+ TM79
+",Machines,Teaches the move Dark Pulse/Frost Breath.
 665,"
--tm80
-",machines,teaches-the-move-rock-slide.
+ TM80
+",Machines,Teaches the move Rock Slide.
 666,"
--tm81
-",machines,teaches-the-move-x-scissor.
+ TM81
+",Machines,Teaches the move X-Scissor.
 667,"
--tm82
-",machines,teaches-the-move-sleep-talk/dragon-tail.
+ TM82
+",Machines,Teaches the move Sleep Talk/Dragon Tail.
 668,"
--tm83
-",machines,teaches-the-move-natural-gift/work-up/infestation.
+ TM83
+",Machines,Teaches the move Natural Gift/Work Up/Infestation.
 669,"
--tm84
-",machines,teaches-the-move-poison-jab.
+ TM84
+",Machines,Teaches the move Poison Jab.
 670,"
--tm85
-",machines,teaches-the-move-dream-eater.
+ TM85
+",Machines,Teaches the move Dream Eater.
 671,"
--tm86
-",machines,teaches-the-move-grass-knot.
+ TM86
+",Machines,Teaches the move Grass Knot.
 672,"
--tm87
-",machines,teaches-the-move-swagger.
+ TM87
+",Machines,Teaches the move Swagger.
 673,"
--tm88
-",machines,teaches-the-move-pluck/sleep-talk.
+ TM88
+",Machines,Teaches the move Pluck/Sleep Talk.
 674,"
--tm89
-",machines,teaches-the-move-u-turn.
+ TM89
+",Machines,Teaches the move U-turn.
 675,"
--tm90
-",machines,teaches-the-move-substitute.
+ TM90
+",Machines,Teaches the move Substitute.
 676,"
--tm91
-",machines,teaches-the-move-flash-cannon.
+ TM91
+",Machines,Teaches the move Flash Cannon.
 677,"
--tm92
-",machines,teaches-the-move-trick-room.
+ TM92
+",Machines,Teaches the move Trick Room.
 678,"
--tm93
-",machines,teaches-the-move-wild-charge.
+ TM93
+",Machines,Teaches the move Wild Charge.
 679,"
--tm94
-",machines,teaches-the-move-rock-smash/surf.
+ TM94
+",Machines,Teaches the move Rock Smash/Surf.
 680,"
--tm95
-",machines,teaches-the-move-snarl.
+ TM95
+",Machines,Teaches the move Snarl.
 681,"
--tm96
-",machines,teaches-the-move-nature-power.
+ TM96
+",Machines,Teaches the move Nature Power.
 682,"
--tm97
-",machines,teaches-the-move-dark-pulse.
+ TM97
+",Machines,Teaches the move Dark Pulse.
 683,"
--tm98
-",machines,teaches-the-move-power-up-punch/waterfall.
+ TM98
+",Machines,Teaches the move Power-Up Punch/Waterfall.
 684,"
--tm99
-",machines,teaches-the-move-dazzling-gleam.
+ TM99
+",Machines,Teaches the move Dazzling Gleam.
 685,"
--tmv-pass
-",general-items,a-commuter-pass-that-allows-the-holder-to-ride-the-tmv-between-lumiose-city-and-kiloude-city-at-any-time.
+ TMV Pass
+",General items,A commuter pass that allows the holder to ride the TMV between Lumiose City and Kiloude City at any time.
 686,"
--tough-candy
-",medicine,increases-a-pokémon's-defense-stat-by-1.
+ Tough Candy
+",Medicine,Increases a Pokémon's Defense stat by 1.
 687,"
--tough-candy-l
-",medicine,increases-a-pokémon's-defense-stat.
+ Tough Candy L
+",Medicine,Increases a Pokémon's Defense stat.
 688,"
--tough-candy-xl
-",medicine,increases-a-pokémon's-defense-stat.
+ Tough Candy XL
+",Medicine,Increases a Pokémon's Defense stat.
 689,"
--toxic-orb
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-is-a-bizarre-orb-that-badly-poisons-the-holder-in-battle.
+ Toxic Orb
+",Hold items,An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.
 690,"
--toxic-plate
-",hold-items,increases-power-of-poison-type-moves.-changes-arceus'-type-to-poison.
+ Toxic Plate
+",Hold items,Increases power of Poison-type moves. Changes Arceus' type to Poison.
 691,"
--tr00
-",machines,teaches-the-move-swords-dance.
+ TR00
+",Machines,Teaches the move Swords Dance.
 692,"
--tr01
-",machines,
+ TR01
+",Machines,
 693,"
--tr02
-",machines,
+ TR02
+",Machines,
 694,"
--tr03
-",machines,
+ TR03
+",Machines,
 695,"
--tr04
-",machines,
+ TR04
+",Machines,
 696,"
--tr05
-",machines,
+ TR05
+",Machines,
 697,"
--tr06
-",machines,
+ TR06
+",Machines,
 698,"
--tr07
-",machines,
+ TR07
+",Machines,
 699,"
--tr08
-",machines,
+ TR08
+",Machines,
 700,"
--tr09
-",machines,
+ TR09
+",Machines,
 701,"
--tr10
-",machines,
+ TR10
+",Machines,
 702,"
--tr11
-",machines,
+ TR11
+",Machines,
 703,"
--tr12
-",machines,
+ TR12
+",Machines,
 704,"
--tr13
-",machines,
+ TR13
+",Machines,
 705,"
--tr14
-",machines,
+ TR14
+",Machines,
 706,"
--tr15
-",machines,
+ TR15
+",Machines,
 707,"
--tr16
-",machines,
+ TR16
+",Machines,
 708,"
--tr17
-",machines,
+ TR17
+",Machines,
 709,"
--tr18
-",machines,
+ TR18
+",Machines,
 710,"
--tr19
-",machines,
+ TR19
+",Machines,
 711,"
--tr20
-",machines,
+ TR20
+",Machines,
 712,"
--tr21
-",machines,
+ TR21
+",Machines,
 713,"
--tr22
-",machines,
+ TR22
+",Machines,
 714,"
--tr23
-",machines,
+ TR23
+",Machines,
 715,"
--tr24
-",machines,
+ TR24
+",Machines,
 716,"
--tr25
-",machines,
+ TR25
+",Machines,
 717,"
--tr26
-",machines,
+ TR26
+",Machines,
 718,"
--tr27
-",machines,
+ TR27
+",Machines,
 719,"
--tr28
-",machines,
+ TR28
+",Machines,
 720,"
--tr29
-",machines,
+ TR29
+",Machines,
 721,"
--tr30
-",machines,
+ TR30
+",Machines,
 722,"
--tr31
-",machines,
+ TR31
+",Machines,
 723,"
--tr32
-",machines,
+ TR32
+",Machines,
 724,"
--tr33
-",machines,
+ TR33
+",Machines,
 725,"
--tr34
-",machines,
+ TR34
+",Machines,
 726,"
--tr35
-",machines,
+ TR35
+",Machines,
 727,"
--tr36
-",machines,
+ TR36
+",Machines,
 728,"
--tr37
-",machines,
+ TR37
+",Machines,
 729,"
--tr38
-",machines,
+ TR38
+",Machines,
 730,"
--tr39
-",machines,
+ TR39
+",Machines,
 731,"
--tr40
-",machines,
+ TR40
+",Machines,
 732,"
--tr41
-",machines,
+ TR41
+",Machines,
 733,"
--tr42
-",machines,
+ TR42
+",Machines,
 734,"
--tr43
-",machines,
+ TR43
+",Machines,
 735,"
--tr44
-",machines,
+ TR44
+",Machines,
 736,"
--tr45
-",machines,
+ TR45
+",Machines,
 737,"
--tr46
-",machines,
+ TR46
+",Machines,
 738,"
--tr47
-",machines,
+ TR47
+",Machines,
 739,"
--tr48
-",machines,
+ TR48
+",Machines,
 740,"
--tr49
-",machines,
+ TR49
+",Machines,
 741,"
--tr50
-",machines,
+ TR50
+",Machines,
 742,"
--tr51
-",machines,teaches-the-move-dragon-dance.
+ TR51
+",Machines,Teaches the move Dragon Dance.
 743,"
--tr52
-",machines,
+ TR52
+",Machines,
 744,"
--tr53
-",machines,
+ TR53
+",Machines,
 745,"
--tr54
-",machines,
+ TR54
+",Machines,
 746,"
--tr55
-",machines,
+ TR55
+",Machines,
 747,"
--tr56
-",machines,
+ TR56
+",Machines,
 748,"
--tr57
-",machines,
+ TR57
+",Machines,
 749,"
--tr58
-",machines,
+ TR58
+",Machines,
 750,"
--tr59
-",machines,
+ TR59
+",Machines,
 751,"
--tr60
-",machines,
+ TR60
+",Machines,
 752,"
--tr61
-",machines,
+ TR61
+",Machines,
 753,"
--tr62
-",machines,
+ TR62
+",Machines,
 754,"
--tr63
-",machines,
+ TR63
+",Machines,
 755,"
--tr64
-",machines,
+ TR64
+",Machines,
 756,"
--tr65
-",machines,
+ TR65
+",Machines,
 757,"
--tr66
-",machines,
+ TR66
+",Machines,
 758,"
--tr67
-",machines,
+ TR67
+",Machines,
 759,"
--tr68
-",machines,
+ TR68
+",Machines,
 760,"
--tr69
-",machines,
+ TR69
+",Machines,
 761,"
--tr70
-",machines,
+ TR70
+",Machines,
 762,"
--tr71
-",machines,
+ TR71
+",Machines,
 763,"
--tr72
-",machines,
+ TR72
+",Machines,
 764,"
--tr73
-",machines,
+ TR73
+",Machines,
 765,"
--tr74
-",machines,
+ TR74
+",Machines,
 766,"
--tr75
-",machines,
+ TR75
+",Machines,
 767,"
--tr76
-",machines,
+ TR76
+",Machines,
 768,"
--tr77
-",machines,
+ TR77
+",Machines,
 769,"
--tr78
-",machines,
+ TR78
+",Machines,
 770,"
--tr79
-",machines,
+ TR79
+",Machines,
 771,"
--tr80
-",machines,
+ TR80
+",Machines,
 772,"
--tr81
-",machines,teaches-the-move-foul-play.
+ TR81
+",Machines,Teaches the move Foul Play.
 773,"
--tr82
-",machines,
+ TR82
+",Machines,
 774,"
--tr83
-",machines,
+ TR83
+",Machines,
 775,"
--tr84
-",machines,teaches-the-move-scald.
+ TR84
+",Machines,Teaches the move Scald.
 776,"
--tr85
-",machines,
+ TR85
+",Machines,
 777,"
--tr86
-",machines,
+ TR86
+",Machines,
 778,"
--tr87
-",machines,
+ TR87
+",Machines,
 779,"
--tr88
-",machines,
+ TR88
+",Machines,
 780,"
--tr89
-",machines,
+ TR89
+",Machines,
 781,"
--tr90
-",machines,
+ TR90
+",Machines,
 782,"
--tr91
-",machines,
+ TR91
+",Machines,
 783,"
--tr92
-",machines,
+ TR92
+",Machines,
 784,"
--tr93
-",machines,
+ TR93
+",Machines,
 785,"
--tr94
-",machines,
+ TR94
+",Machines,
 786,"
--tr95
-",machines,
+ TR95
+",Machines,
 787,"
--tr96
-",machines,
+ TR96
+",Machines,
 788,"
--tr97
-",machines,
+ TR97
+",Machines,
 789,"
--tr98
-",machines,
+ TR98
+",Machines,
 790,"
--tr99
-",machines,
+ TR99
+",Machines,
 791,"
--tropical-shell
-",general-items,
+ Tropical Shell
+",General items,
 792,"
--twisted-spoon
-",hold-items,increases-the-power-of-psychic-type-moves.
+ Twisted Spoon
+",Hold items,Increases the power of Psychic-type moves.
 793,"
--tyranitarite
-",hold-items,enables-tyranitar-to-mega-evolve-during-battle.
+ Tyranitarite
+",Hold items,Enables Tyranitar to Mega Evolve during battle.
 794,"
--ultra-ball
-",pokeballs,an-ultra-performance-ball-that-provides-a-higher-pokémon-catch-rate-than-a-great-ball.
+ Ultra Ball
+",Pokeballs,An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.
 795,"
--ultranecrozium-z
-",hold-items,"allows-ultra-necrozma-to-upgrade-photon-geyser-to-a-z-move,-light-that-burns-the-sky."
+ Ultranecrozium Z
+",Hold items,"Allows Ultra Necrozma to upgrade Photon Geyser to a Z-Move, Light That Burns the Sky."
 796,"
--up-grade
-",general-items,evolves-porygon-when-traded-holding-the-item.
+ Up-Grade
+",General items,Evolves Porygon when traded holding the item.
 797,"
--utility-umbrella
-",hold-items,an-item-to-be-held-by-a-pokémon.-this-sturdy-umbrella-protects-the-holder-from-the-effects-of-weather.
+ Utility Umbrella
+",Hold items,An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of weather.
 798,"
--venusaurite
-",hold-items,enables-venusaur-to-mega-evolve-during-battle.
+ Venusaurite
+",Hold items,Enables Venusaur to Mega Evolve during battle.
 799,"
--wacan-berry
-",berries,weakens-a-supereffective-electric-type-attack-against-the-holding-pokémon.
+ Wacan Berry
+",Berries,Weakens a supereffective Electric-type attack against the holding Pokémon.
 800,"
--water-gem
-",hold-items,increases-the-power-of-a-water-type-move-only-once.
+ Water Gem
+",Hold items,Increases the power of a Water-type move only once.
 801,"
--water-memory
-",hold-items,changes-silvally-and-its-move-multi-attack-to-water-type.
+ Water Memory
+",Hold items,Changes Silvally and its move Multi-Attack to Water type.
 802,"
--water-stone
-",general-items,evolves-certain-species-of-pokémon.
+ Water Stone
+",General items,Evolves certain species of Pokémon.
 803,"
--waterium-z
-",hold-items,"allows-the-use-of-hydro-vortex,-the-water-type-z-move."
+ Waterium Z
+",Hold items,"Allows the use of Hydro Vortex, the Water type Z-Move."
 804,"
--watmel-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Watmel Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 805,"
--wave-incense
-",hold-items,increases-the-power-of-water-type-moves.-breeding-mantine-produces-mantyke-when-held.
+ Wave Incense
+",Hold items,Increases the power of Water-type moves. Breeding Mantine produces Mantyke when held.
 806,"
--weakness-policy
-",hold-items,sharply-raises-attack-and-special-attack-if-hit-by-a-super-effective-move.
+ Weakness Policy
+",Hold items,Sharply raises Attack and Special Attack if hit by a super-effective move.
 807,"
--wepear-berry
-",berries,a-berry-which-is-very-rare-in-the-unova-region.-a-maniac-will-buy-it-for-a-high-price.
+ Wepear Berry
+",Berries,A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
 808,"
--whipped-dream
-",general-items,evolves-swirlix-when-traded-holding-the-item.
+ Whipped Dream
+",General items,Evolves Swirlix when traded holding the item.
 809,"
--white-apricorn
-",general-items,a-white-apricorn.-it-doesn't-smell-like-anything.
+ White Apricorn
+",General items,A white Apricorn. It doesn't smell like anything.
 810,"
--white-flute
-",general-items,a-toy-flute-made-from-white-glass.-a-maniac-will-buy-it-for-a-high-price.
+ White Flute
+",General items,A toy flute made from white glass. A maniac will buy it for a high price.
 811,"
--white-herb
-",hold-items,an-item-to-be-held-by-a-pokémon.-it-restores-any-lowered-stat-in-battle.-it-can-be-used-only-once.
+ White Herb
+",Hold items,An item to be held by a POKéMON. It restores any lowered stat in battle. It can be used only once.
 812,"
--wide-lens
-",hold-items,increases-the-accuracy-of-moves.
+ Wide Lens
+",Hold items,Increases the accuracy of moves.
 813,"
--wiki-berry
-",berries,"restores-hp-if-it's-low,-but-may-cause-confusion."
+ Wiki Berry
+",Berries,"Restores HP if it's low, but may cause confusion."
 814,"
--wise-glasses
-",hold-items,increases-the-power-of-special-category-moves.
+ Wise Glasses
+",Hold items,Increases the power of Special-category moves.
 815,"
--wishing-piece
-",general-items,activates-a-pokémon-den-for-a-max-raid-battle.
+ Wishing Piece
+",General items,Activates a Pokémon Den for a Max Raid Battle.
 816,"
--x-accuracy
-",battle-items,raises-accuracy-of-a-pokémon-in-battle.
+ X Accuracy
+",Battle items,Raises Accuracy of a Pokémon in battle.
 817,"
--x-accuracy-2
-",battle-items,sharply-raises-accuracy-of-a-pokémon-in-battle.
+ X Accuracy 2
+",Battle items,Sharply raises Accuracy of a Pokémon in battle.
 818,"
--x-accuracy-3
-",battle-items,drastically-raises-accuracy-of-a-pokémon-in-battle.
+ X Accuracy 3
+",Battle items,Drastically raises Accuracy of a Pokémon in battle.
 819,"
--x-accuracy-6
-",battle-items,immensely-raises-accuracy-of-a-pokémon-in-battle.
+ X Accuracy 6
+",Battle items,Immensely raises Accuracy of a Pokémon in battle.
 820,"
--x-attack
-",battle-items,raises-attack-of-a-pokémon-in-battle.
+ X Attack
+",Battle items,Raises Attack of a Pokémon in battle.
 821,"
--x-attack-2
-",battle-items,sharply-raises-attack-of-a-pokémon-in-battle.
+ X Attack 2
+",Battle items,Sharply raises Attack of a Pokémon in battle.
 822,"
--x-attack-3
-",battle-items,drastically-raises-attack-of-a-pokémon-in-battle.
+ X Attack 3
+",Battle items,Drastically raises Attack of a Pokémon in battle.
 823,"
--x-attack-6
-",battle-items,immensely-raises-attack-of-a-pokémon-in-battle.
+ X Attack 6
+",Battle items,Immensely raises Attack of a Pokémon in battle.
 824,"
--x-defense
-",battle-items,raises-defense-of-a-pokémon-in-battle.
+ X Defense
+",Battle items,Raises Defense of a Pokémon in battle.
 825,"
--x-defense-2
-",battle-items,sharply-raises-defense-of-a-pokémon-in-battle.
+ X Defense 2
+",Battle items,Sharply raises Defense of a Pokémon in battle.
 826,"
--x-defense-3
-",battle-items,drastically-raises-defense-of-a-pokémon-in-battle.
+ X Defense 3
+",Battle items,Drastically raises Defense of a Pokémon in battle.
 827,"
--x-defense-6
-",battle-items,immensely-raises-defense-of-a-pokémon-in-battle.
+ X Defense 6
+",Battle items,Immensely raises Defense of a Pokémon in battle.
 828,"
--x-sp.-atk
-",battle-items,raises-special-attack-of-a-pokémon-in-battle.
+ X Sp. Atk
+",Battle items,Raises Special Attack of a Pokémon in battle.
 829,"
--x-sp.-atk-2
-",battle-items,sharply-raises-special-attack-of-a-pokémon-in-battle.
+ X Sp. Atk 2
+",Battle items,Sharply raises Special Attack of a Pokémon in battle.
 830,"
--x-sp.-atk-3
-",battle-items,drastically-raises-special-attack-of-a-pokémon-in-battle.
+ X Sp. Atk 3
+",Battle items,Drastically raises Special Attack of a Pokémon in battle.
 831,"
--x-sp.-atk-6
-",battle-items,immensely-raises-special-attack-of-a-pokémon-in-battle.
+ X Sp. Atk 6
+",Battle items,Immensely raises Special Attack of a Pokémon in battle.
 832,"
--x-sp.-def
-",battle-items,raises-special-defense-of-a-pokémon-in-battle.
+ X Sp. Def
+",Battle items,Raises Special Defense of a Pokémon in battle.
 833,"
--x-sp.-def-2
-",battle-items,sharply-raises-special-defense-of-a-pokémon-in-battle.
+ X Sp. Def 2
+",Battle items,Sharply raises Special Defense of a Pokémon in battle.
 834,"
--x-sp.-def-3
-",battle-items,drastically-raises-special-defense-of-a-pokémon-in-battle.
+ X Sp. Def 3
+",Battle items,Drastically raises Special Defense of a Pokémon in battle.
 835,"
--x-sp.-def-6
-",battle-items,immensely-raises-special-defense-of-a-pokémon-in-battle.
+ X Sp. Def 6
+",Battle items,Immensely raises Special Defense of a Pokémon in battle.
 836,"
--x-speed
-",battle-items,raises-speed-of-a-pokémon-in-battle.
+ X Speed
+",Battle items,Raises Speed of a Pokémon in battle.
 837,"
--x-speed-2
-",battle-items,sharply-raises-speed-of-a-pokémon-in-battle.
+ X Speed 2
+",Battle items,Sharply raises Speed of a Pokémon in battle.
 838,"
--x-speed-3
-",battle-items,drastically-raises-speed-of-a-pokémon-in-battle.
+ X Speed 3
+",Battle items,Drastically raises Speed of a Pokémon in battle.
 839,"
--x-speed-6
-",battle-items,immensely-raises-speed-of-a-pokémon-in-battle.
+ X Speed 6
+",Battle items,Immensely raises Speed of a Pokémon in battle.
 840,"
--yache-berry
-",berries,weakens-a-supereffective-ice-type-attack-against-the-holding-pokémon.
+ Yache Berry
+",Berries,Weakens a supereffective Ice-type attack against the holding Pokémon.
 841,"
--yellow-apricorn
-",general-items,a-yellow-apricorn.-it-has-an-invigorating-scent.
+ Yellow Apricorn
+",General items,A yellow Apricorn. It has an invigorating scent.
 842,"
--yellow-flute
-",general-items,a-toy-flute-made-from-yellow-glass.-a-maniac-will-buy-it-for-a-high-price.
+ Yellow Flute
+",General items,A toy flute made from yellow glass. A maniac will buy it for a high price.
 843,"
--yellow-nectar
-",hold-items,a-flower-nectar-obtained-at-melemele-meadow.-it-changes-the-form-of-certain-species-of-pokémon.
+ Yellow Nectar
+",Hold items,A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.
 844,"
--yellow-scarf
-",general-items,raises-holder's-tough-aspect-in-a-contest.
+ Yellow Scarf
+",General items,Raises holder's Tough aspect in a Contest.
 845,"
--yellow-shard
-",general-items,a-small-yellow-shard.-it-appears-to-be-from-some-sort-of-implement-made-long-ago.
+ Yellow Shard
+",General items,A small yellow shard. It appears to be from some sort of implement made long ago.
 846,"
--zap-plate
-",hold-items,increases-power-of-electric-type-moves.-changes-arceus'-type-to-electric.
+ Zap Plate
+",Hold items,Increases power of Electric-type moves. Changes Arceus' type to Electric.
 847,"
--zinc
-",medicine,increases-special-defense-evs-by-10.
+ Zinc
+",Medicine,Increases Special Defense EVs by 10.
 848,"
--zoom-lens
-",hold-items,raises-a-move's-accuracy-if-the-holder-moves-after-its-target.
+ Zoom Lens
+",Hold items,Raises a move's accuracy if the holder moves after its target.
